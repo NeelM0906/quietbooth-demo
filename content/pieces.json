@@ -1,310 +1,815 @@
 {
-  "chapters": [
-    { "id": "steel", "numeral": "I", "title": "Steel, Quietly", "intro": "Sport watches without the noise. Original dials, unpolished cases, and bracelets that still close the way they did on the first day." },
-    { "id": "gold", "numeral": "II", "title": "Gold Hours", "intro": "Dress watches from the decades when a watch was made to be worn under a cuff and noticed only by the person wearing it." },
-    { "id": "light", "numeral": "III", "title": "Light, Held", "intro": "Diamonds chosen one at a time under the loupe, set in platinum and white gold, and shown in daylight before they are shown anywhere else." },
-    { "id": "colour", "numeral": "IV", "title": "Colour, Considered", "intro": "Emerald, sapphire, and ruby with independent laboratory reports, alongside one watch that would not sit in any other chapter." }
-  ],
-  "pieces": [
+ "chapters": [
+  {
+   "id": "steel",
+   "numeral": "I",
+   "title": "Steel, Quietly",
+   "intro": "Sport watches without the noise. Original dials, honest cases, and bracelets that still close the way they did on the first day.",
+   "image": "gmt-2"
+  },
+  {
+   "id": "gold",
+   "numeral": "II",
+   "title": "Dress Hours",
+   "intro": "Watches from the decades when a watch was made to be worn under a cuff and noticed only by the person wearing it.",
+   "image": "tank-1"
+  },
+  {
+   "id": "light",
+   "numeral": "III",
+   "title": "Light, Held",
+   "intro": "Diamonds and platinum from the Jazz Age, when New York and Paris jewelers built pieces that moved like light.",
+   "image": "cartierbrooch-1"
+  },
+  {
+   "id": "colour",
+   "numeral": "IV",
+   "title": "Colour, Considered",
+   "intro": "Sapphire, emerald, and ruby at their most celebrated. Shown here as references for the calibre of colour we look for.",
+   "image": "tutti-1"
+  }
+ ],
+ "pieces": [
+  {
+   "slug": "rolex-submariner-16800",
+   "chapter": "steel",
+   "kind": "watch",
+   "featured": true,
+   "status": "available",
+   "maker": "Rolex",
+   "title": "Submariner Date",
+   "reference": "Ref. 16800",
+   "year": "c. 1980",
+   "headline": "The first Submariner Date with a sapphire crystal, on its early matte dial.",
+   "story": [
+    "The 16800 arrived around 1979 and quietly modernised the Submariner: a sapphire crystal in place of acrylic, a quickset date, and water resistance raised to 300 metres. Early examples kept the matte black dial and painted tritium markers of the reference before it.",
+    "This example shows exactly that transitional dial, marked 1000ft = 300m with the \"T < 25\" tritium signature at six o'clock. The markers have aged to a warm cream that matches the hands."
+   ],
+   "provenance": [
+    "Matte dial with tritium lume, correct for early production",
+    "Photographed on its cushion, front, back, and profile"
+   ],
+   "condition": "Honest wear consistent with age. Light marks to the bezel insert and bracelet. Lume aged evenly.",
+   "specs": [
+    [
+     "Case",
+     "Stainless steel, 40 mm"
+    ],
+    [
+     "Movement",
+     "Automatic, Rolex calibre 3035, quickset date"
+    ],
+    [
+     "Crystal",
+     "Sapphire"
+    ],
+    [
+     "Dial",
+     "Matte black, painted tritium markers"
+    ],
+    [
+     "Bezel",
+     "Rotating 60-minute diving bezel"
+    ],
+    [
+     "Water resistance",
+     "300 m"
+    ],
+    [
+     "Bracelet",
+     "Steel Oyster"
+    ]
+   ],
+   "photos": [
     {
-      "slug": "verrault-lumen-38",
-      "chapter": "steel",
-      "kind": "watch",
-      "featured": true,
-      "status": "available",
-      "maker": "Maison Verrault",
-      "title": "Lumen 38",
-      "reference": "Ref. 3812",
-      "year": "2019",
-      "headline": "A slate sunburst dial that changes with the weather.",
-      "story": [
-        "The Lumen was drawn as a watch for every day of a long life. At 38 millimetres it sits close to the wrist, and the slate dial moves from charcoal to silver as the light turns.",
-        "This example came to us from its first owner, a physician in Boston, with the full set. The case has never been polished. You can still see the factory brushing on the lugs."
-      ],
-      "provenance": ["Single owner since new", "Original purchase receipt, 2019", "Box, papers, and two spare links"],
-      "condition": "Excellent. Light desk wear on the clasp. Case unpolished.",
-      "specs": [["Case", "Stainless steel, 38 mm"], ["Movement", "Automatic, calibre V-30"], ["Dial", "Slate sunburst, applied batons"], ["Bracelet", "Steel, folding clasp"], ["Water resistance", "100 m"], ["Set", "Box and papers"]],
-      "art": { "type": "watch", "case": "round", "metal": "steel", "dial": "#4A5157", "dialStyle": "sunburst", "bezel": "smooth", "band": "bracelet", "indices": "baton", "hands": "baton", "complication": "date", "tone": "olive" }
+     "id": "submariner-1",
+     "alt": "Rolex Submariner Date 16800 with a matte black dial and black diving bezel, on a white watch cushion",
+     "pos": "50% 40%"
     },
     {
-      "slug": "haldane-traverse-chronograph",
-      "chapter": "steel",
-      "kind": "watch",
-      "featured": false,
-      "status": "available",
-      "maker": "Haldane & Fils",
-      "title": "Traverse Chronograph",
-      "reference": "Ref. H-402",
-      "year": "1971",
-      "headline": "A manual chronograph with its original panda dial.",
-      "story": [
-        "Haldane made the Traverse for rally timekeepers, and only a few hundred left the workshop. The cream dial with black registers is original and has aged evenly to a soft ivory.",
-        "We serviced the movement with an independent watchmaker on 47th Street and kept every replaced part in a sealed envelope that goes home with the watch."
-      ],
-      "provenance": ["Acquired from a private collection in Geneva", "Service record, 2025", "Replaced parts retained"],
-      "condition": "Very good. Even patina on dial and hands. Case shows honest wear.",
-      "specs": [["Case", "Stainless steel, 37 mm"], ["Movement", "Manual wind chronograph"], ["Dial", "Cream with black registers"], ["Strap", "Chestnut calf, steel buckle"], ["Service", "2025, independent"], ["Set", "Watch and service papers"]],
-      "art": { "type": "watch", "case": "round", "metal": "steel", "dial": "#E9E1CF", "dialStyle": "plain", "bezel": "tachy", "band": "leather", "strap": "#5B3A24", "indices": "baton", "hands": "baton", "complication": "chrono", "tone": "stone" }
+     "id": "submariner-2",
+     "alt": "The caseback and Oyster bracelet of the Rolex Submariner 16800"
     },
     {
-      "slug": "orsolya-octa-41",
-      "chapter": "steel",
-      "kind": "watch",
-      "featured": true,
-      "status": "on-hold",
-      "maker": "Orsolya Genève",
-      "title": "Octa 41",
-      "reference": "Ref. 1541",
-      "year": "2016",
-      "headline": "An octagonal case and a hand-guilloché dial in storm blue.",
-      "story": [
-        "The Octa is the most recognisable silhouette in our salon, and the least shown. Eight facets catch light differently as the wrist turns, and the bracelet is integrated so the watch reads as one object.",
-        "Daniel has measured the bracelet stretch at under half a millimetre across the links. It has been worn, but carefully."
-      ],
-      "provenance": ["Second owner, purchased from us in 2018", "Box, papers, and service card", "Returned to us for resale"],
-      "condition": "Excellent. Bracelet tight. Light hairlines on the bezel.",
-      "specs": [["Case", "Stainless steel, 41 mm"], ["Movement", "Automatic, ultra-thin"], ["Dial", "Storm blue, guilloché"], ["Bracelet", "Integrated steel"], ["Water resistance", "50 m"], ["Set", "Full set"]],
-      "art": { "type": "watch", "case": "octagon", "metal": "steel", "dial": "#2A3C52", "dialStyle": "guilloche", "bezel": "smooth", "band": "bracelet", "indices": "baton", "hands": "baton", "complication": "date", "tone": "ink" }
-    },
-    {
-      "slug": "verrault-calendrier-lune",
-      "chapter": "gold",
-      "kind": "watch",
-      "featured": true,
-      "status": "available",
-      "maker": "Maison Verrault",
-      "title": "Calendrier Lune",
-      "reference": "Ref. 5120R",
-      "year": "2008",
-      "headline": "A moonphase in rose gold, accurate for one hundred and twenty years.",
-      "story": [
-        "The moon disc is cut from lapis and set with gold stars by hand. It needs one correction every one hundred and twenty two years, which is to say it needs none in yours.",
-        "This piece was kept in a safe for most of its life. The rose gold has a soft, even tone and the strap is new, with the original folding buckle."
-      ],
-      "provenance": ["Original owner, New York", "Extract from the archives", "Original buckle, new strap"],
-      "condition": "Excellent. Minimal wear. Never polished.",
-      "specs": [["Case", "18k rose gold, 39 mm"], ["Movement", "Automatic, moonphase"], ["Dial", "Ivory grained, Breguet numerals"], ["Strap", "Chocolate alligator"], ["Buckle", "18k folding buckle"], ["Set", "Box, papers, archive extract"]],
-      "art": { "type": "watch", "case": "round", "metal": "rose", "dial": "#EDE4D2", "dialStyle": "grain", "bezel": "smooth", "band": "leather", "strap": "#3A2318", "indices": "breguet", "hands": "breguet", "complication": "moon", "tone": "olive" }
-    },
-    {
-      "slug": "aubrac-tonneau-1938",
-      "chapter": "gold",
-      "kind": "watch",
-      "featured": false,
-      "status": "available",
-      "maker": "Aubrac & Cie",
-      "title": "Tonneau",
-      "reference": "No. 21907",
-      "year": "1938",
-      "headline": "A barrel case from the year before everything changed.",
-      "story": [
-        "Aubrac cased only a handful of these in yellow gold before the workshop turned to instruments for the war. The Roman numerals are printed, not painted, and still sharp.",
-        "The crystal is a period-correct replacement. Everything else is as it left Aubrac, including the engraved caseback dedication, which we have photographed for the dossier and will not publish."
-      ],
-      "provenance": ["Estate of a New Jersey collector", "Engraved caseback, 1938", "Accompanied by an expert letter"],
-      "condition": "Good for age. Replacement crystal. Gold has warm patina.",
-      "specs": [["Case", "18k yellow gold, 26 x 38 mm"], ["Movement", "Manual wind"], ["Dial", "Silvered, printed Roman numerals"], ["Strap", "Black calf"], ["Era", "Pre-war"], ["Set", "Watch and expert letter"]],
-      "art": { "type": "watch", "case": "tonneau", "metal": "yellow", "dial": "#E4DFD3", "dialStyle": "plain", "bezel": "none", "band": "leather", "strap": "#1C1A17", "indices": "roman", "hands": "breguet", "complication": "seconds", "tone": "stone" }
-    },
-    {
-      "slug": "haldane-rectangle-deco",
-      "chapter": "gold",
-      "kind": "watch",
-      "featured": false,
-      "status": "reserved",
-      "maker": "Haldane & Fils",
-      "title": "Rectangle Déco",
-      "reference": "Ref. 790",
-      "year": "1946",
-      "headline": "Stepped lugs and a champagne dial, made for a shirt cuff.",
-      "story": [
-        "The rectangle was the shape of the 1940s, and Haldane drew one of the best. The stepped lugs reflect light in three planes, which is why we photograph it on stone.",
-        "Reserved for a client while they decide. We will tell you honestly if it becomes available again."
-      ],
-      "provenance": ["Private collection, London", "Serviced 2024"],
-      "condition": "Very good. Original dial with light spotting at six.",
-      "specs": [["Case", "18k yellow gold, 23 x 35 mm"], ["Movement", "Manual wind"], ["Dial", "Champagne, applied gold markers"], ["Strap", "Tan suede"], ["Service", "2024"], ["Set", "Watch only"]],
-      "art": { "type": "watch", "case": "rect", "metal": "yellow", "dial": "#D9C59A", "dialStyle": "sunburst", "bezel": "none", "band": "leather", "strap": "#8A6A45", "indices": "baton", "hands": "dauphine", "complication": "none", "tone": "olive" }
-    },
-    {
-      "slug": "orsolya-ref-96-platine",
-      "chapter": "gold",
-      "kind": "watch",
-      "featured": false,
-      "status": "available",
-      "maker": "Orsolya Genève",
-      "title": "Ref. 96 Platine",
-      "reference": "Ref. 96P",
-      "year": "1999",
-      "headline": "A platinum time-only watch with a salmon dial.",
-      "story": [
-        "Platinum is heavier than it looks, and the Ref. 96 makes no effort to say so. The salmon dial was a special order and the only indication of the metal is a small diamond set in the caseback at six.",
-        "One of very few we have seen. It came to us through a family who wanted it to go to someone who would wear it."
-      ],
-      "provenance": ["Original owner family, Connecticut", "Certificate of origin", "Special order dial"],
-      "condition": "Excellent. Faint scratches on the caseback.",
-      "specs": [["Case", "Platinum 950, 36 mm"], ["Movement", "Manual wind"], ["Dial", "Salmon, applied white gold markers"], ["Strap", "Black alligator"], ["Buckle", "Platinum"], ["Set", "Box and certificate"]],
-      "art": { "type": "watch", "case": "round", "metal": "platinum", "dial": "#E3B49B", "dialStyle": "plain", "bezel": "smooth", "band": "leather", "strap": "#151413", "indices": "dots", "hands": "dauphine", "complication": "seconds", "tone": "ink" }
-    },
-    {
-      "slug": "oval-solitaire-302",
-      "chapter": "light",
-      "kind": "jewelry",
-      "featured": true,
-      "status": "available",
-      "maker": "QuietBooth Atelier",
-      "title": "Oval Solitaire, 3.02 ct",
-      "reference": "Atelier No. 0417",
-      "year": "2026",
-      "headline": "An oval diamond on a knife-edge platinum band.",
-      "story": [
-        "Miriam looked at forty oval diamonds to choose this one. The proportions keep the bow tie to a whisper, and the stone faces up larger than its weight would suggest.",
-        "The band is hand-forged and set with four claws, low enough to slip under a glove. We can resize it in our workshop within a week."
-      ],
-      "provenance": ["Independent laboratory report, natural diamond", "Set in our workshop", "Sourced from a known cutter in Antwerp"],
-      "condition": "New, made in our workshop.",
-      "specs": [["Stone", "Oval brilliant, 3.02 ct"], ["Colour and clarity", "E, VVS2"], ["Metal", "Platinum 950"], ["Band", "Knife edge, 1.8 mm"], ["Size", "52, resizable"], ["Report", "Independent laboratory"]],
-      "art": { "type": "ring", "metal": "platinum", "stone": "diamond", "cut": "oval", "tone": "ink" }
-    },
-    {
-      "slug": "riviere-1952",
-      "chapter": "light",
-      "kind": "jewelry",
-      "featured": true,
-      "status": "available",
-      "maker": "Unsigned, Paris",
-      "title": "Rivière Necklace",
-      "reference": "Circa 1952",
-      "year": "1952",
-      "headline": "Forty-one graduated diamonds in a single line of light.",
-      "story": [
-        "A rivière is the simplest necklace there is and the hardest to make well. Every stone must match its neighbour in colour, and the graduation must look inevitable.",
-        "This one was made in Paris shortly after the war. The old European cuts give a softer, warmer fire than modern stones, closer to candlelight than to a camera flash."
-      ],
-      "provenance": ["Paris assay marks", "Private European collection", "Restrung and inspected 2026"],
-      "condition": "Very good. All stones original. Clasp reinforced.",
-      "specs": [["Stones", "41 old European cut diamonds"], ["Total weight", "Approximately 14 ct"], ["Metal", "Platinum"], ["Length", "41 cm"], ["Clasp", "Box clasp with safety"], ["Era", "Circa 1952"]],
-      "art": { "type": "necklace", "metal": "platinum", "stone": "diamond", "cut": "round", "pendant": "none", "tone": "olive" }
-    },
-    {
-      "slug": "pear-drop-earrings",
-      "chapter": "light",
-      "kind": "jewelry",
-      "featured": false,
-      "status": "available",
-      "maker": "QuietBooth Atelier",
-      "title": "Pear Drop Earrings",
-      "reference": "Atelier No. 0388",
-      "year": "2025",
-      "headline": "Two matched pears that move when you do.",
-      "story": [
-        "Matching two pear diamonds is slow work. These were cut from the same rough and their outlines differ by less than a tenth of a millimetre.",
-        "They hang from a small round diamond on a hinged link, so they turn and catch light even when you are standing still."
-      ],
-      "provenance": ["Matched pair, same rough", "Independent laboratory reports for both", "Made in our workshop"],
-      "condition": "New, made in our workshop.",
-      "specs": [["Stones", "Two pear brilliants, 1.51 ct and 1.50 ct"], ["Colour and clarity", "F, VS1"], ["Accents", "Round brilliants, 0.40 ct total"], ["Metal", "18k white gold"], ["Fitting", "Post with friction back"], ["Report", "Independent laboratory"]],
-      "art": { "type": "earrings", "metal": "white", "stone": "diamond", "cut": "pear", "tone": "stone" }
-    },
-    {
-      "slug": "line-bracelet-980",
-      "chapter": "light",
-      "kind": "jewelry",
-      "featured": false,
-      "status": "available",
-      "maker": "QuietBooth Atelier",
-      "title": "Line Bracelet, 9.80 ct",
-      "reference": "Atelier No. 0352",
-      "year": "2024",
-      "headline": "A line of fifty-two diamonds, every one the same size.",
-      "story": [
-        "The point of a line bracelet is that you stop seeing individual stones. These fifty-two were calibrated to within two hundredths of a millimetre.",
-        "Each link is hinged and soldered by hand. The clasp has two independent safeties because a bracelet like this should not need a second thought."
-      ],
-      "provenance": ["Stones calibrated in our workshop", "Independent laboratory report for the set"],
-      "condition": "New, made in our workshop.",
-      "specs": [["Stones", "52 round brilliants"], ["Total weight", "9.80 ct"], ["Colour and clarity", "G, VS"], ["Metal", "Platinum 950"], ["Length", "17.5 cm"], ["Clasp", "Box clasp, double safety"]],
-      "art": { "type": "bracelet", "metal": "platinum", "stone": "diamond", "cut": "round", "tone": "olive" }
-    },
-    {
-      "slug": "colombian-emerald-ring",
-      "chapter": "colour",
-      "kind": "jewelry",
-      "featured": true,
-      "status": "available",
-      "maker": "QuietBooth Atelier",
-      "title": "Colombian Emerald, 4.10 ct",
-      "reference": "Atelier No. 0401",
-      "year": "2026",
-      "headline": "A deep green emerald cut with minor oil, framed in yellow gold.",
-      "story": [
-        "Colombian emeralds have a warmth that no other source quite matches. This one is a saturated, slightly bluish green with the soft garden you expect and want in a natural stone.",
-        "We set it in yellow gold with a fine diamond shoulder on each side, so the green reads first and the light second."
-      ],
-      "provenance": ["Origin report: Colombia", "Clarity enhancement: minor", "Set in our workshop"],
-      "condition": "New, made in our workshop.",
-      "specs": [["Stone", "Emerald cut emerald, 4.10 ct"], ["Origin", "Colombia, per laboratory"], ["Enhancement", "Minor"], ["Shoulders", "Tapered baguettes, 0.36 ct"], ["Metal", "18k yellow gold"], ["Size", "54, resizable"]],
-      "art": { "type": "ring", "metal": "yellow", "stone": "emerald", "cut": "emerald", "tone": "stone" }
-    },
-    {
-      "slug": "ceylon-sapphire-pendant",
-      "chapter": "colour",
-      "kind": "jewelry",
-      "featured": false,
-      "status": "available",
-      "maker": "QuietBooth Atelier",
-      "title": "Ceylon Sapphire Pendant",
-      "reference": "Atelier No. 0366",
-      "year": "2025",
-      "headline": "A cornflower sapphire, unheated, on a fine platinum chain.",
-      "story": [
-        "Unheated sapphires of this size and colour are found perhaps a few times a year. The cushion cut keeps the colour even from edge to edge.",
-        "We kept the setting almost invisible. A thin halo of small diamonds lifts the blue without competing with it."
-      ],
-      "provenance": ["Origin report: Sri Lanka", "No indication of heating", "Set in our workshop"],
-      "condition": "New, made in our workshop.",
-      "specs": [["Stone", "Cushion sapphire, 7.21 ct"], ["Origin", "Sri Lanka, per laboratory"], ["Treatment", "None detected"], ["Halo", "Round brilliants, 0.62 ct"], ["Metal", "Platinum"], ["Chain", "45 cm, adjustable"]],
-      "art": { "type": "necklace", "metal": "platinum", "stone": "sapphire", "cut": "cushion", "pendant": "halo", "tone": "ink" }
-    },
-    {
-      "slug": "burmese-ruby-earrings",
-      "chapter": "colour",
-      "kind": "jewelry",
-      "featured": false,
-      "status": "available",
-      "maker": "QuietBooth Atelier",
-      "title": "Burmese Ruby Drops",
-      "reference": "Atelier No. 0329",
-      "year": "2024",
-      "headline": "Pigeon blood rubies, each one an oval of warm light.",
-      "story": [
-        "Rubies glow under daylight because they fluoresce, and the best Burmese stones do it most. These two ovals were paired over three years of buying.",
-        "They hang beneath a small diamond cluster, set in platinum so nothing warms the colour except the stones themselves."
-      ],
-      "provenance": ["Origin reports: Myanmar, both stones", "Acquired before 2008 import restrictions, documented", "Made in our workshop"],
-      "condition": "New, made in our workshop.",
-      "specs": [["Stones", "Two oval rubies, 2.04 ct total"], ["Origin", "Myanmar, per laboratory"], ["Treatment", "No indication of heating"], ["Accents", "Round brilliants, 0.30 ct"], ["Metal", "Platinum"], ["Fitting", "Post with friction back"]],
-      "art": { "type": "earrings", "metal": "platinum", "stone": "ruby", "cut": "oval", "tone": "olive" }
-    },
-    {
-      "slug": "verrault-lumen-joaillerie",
-      "chapter": "colour",
-      "kind": "watch",
-      "featured": false,
-      "status": "available",
-      "maker": "Maison Verrault",
-      "title": "Lumen Joaillerie",
-      "reference": "Ref. 3816G",
-      "year": "2021",
-      "headline": "A white gold Lumen with a bezel of sixty diamonds.",
-      "story": [
-        "The jewellery version of the Lumen is rarely seen, because most were made to order. The bezel stones are set so closely that it reads as a ring of light rather than sixty diamonds.",
-        "The ink dial is lacquered in twelve layers and polished between each one."
-      ],
-      "provenance": ["Single owner", "Full set with diamond certificate"],
-      "condition": "Excellent. Unworn in the last four years.",
-      "specs": [["Case", "18k white gold, 36 mm"], ["Bezel", "60 round brilliants, 1.12 ct"], ["Movement", "Automatic"], ["Dial", "Ink lacquer"], ["Strap", "Midnight satin"], ["Set", "Full set"]],
-      "art": { "type": "watch", "case": "round", "metal": "white", "dial": "#121519", "dialStyle": "lacquer", "bezel": "diamond", "band": "leather", "strap": "#1D2433", "indices": "dots", "hands": "dauphine", "complication": "none", "tone": "stone" }
+     "id": "submariner-3",
+     "alt": "Profile of the Rolex Submariner 16800 showing the bezel edge and crown guards"
     }
-  ]
+   ]
+  },
+  {
+   "slug": "rolex-gmt-master-ii-16710",
+   "chapter": "steel",
+   "kind": "watch",
+   "featured": true,
+   "status": "available",
+   "maker": "Rolex",
+   "title": "GMT-Master II",
+   "reference": "Ref. 16710",
+   "year": "1989–2007",
+   "headline": "Three time zones, read at a glance, on a black bezel.",
+   "story": [
+    "The 16710 was made from 1989 to 2007 and is the GMT-Master II many collectors consider the purest: a 40 mm steel Oyster case, an independently set hour hand, and a 24-hour bezel that lets one watch keep three time zones.",
+    "This one wears the all-black bezel insert, the most discreet of the three the reference was offered with, and the red-tipped 24-hour hand that has marked the GMT since 1955."
+   ],
+   "provenance": [
+    "Shown with its green Rolex box",
+    "Photographed front-on and on the box"
+   ],
+   "condition": "Very good. Crisp dial and hands. Light bracelet wear.",
+   "specs": [
+    [
+     "Case",
+     "Stainless steel, 40 mm"
+    ],
+    [
+     "Movement",
+     "Automatic, Rolex calibre 3185"
+    ],
+    [
+     "Functions",
+     "Hours, minutes, seconds, date, second time zone"
+    ],
+    [
+     "Bezel",
+     "Bidirectional 24-hour, black insert"
+    ],
+    [
+     "Crystal",
+     "Sapphire"
+    ],
+    [
+     "Water resistance",
+     "100 m"
+    ],
+    [
+     "Bracelet",
+     "Steel Oyster"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "gmt-1",
+     "alt": "Rolex GMT-Master II 16710 with black dial, black 24-hour bezel, and red GMT hand, photographed front-on"
+    },
+    {
+     "id": "gmt-2",
+     "alt": "Rolex GMT-Master II 16710 resting on its green Rolex presentation box",
+     "pos": "45% 50%"
+    }
+   ]
+  },
+  {
+   "slug": "omega-speedmaster-professional",
+   "chapter": "steel",
+   "kind": "watch",
+   "featured": false,
+   "status": "on-hold",
+   "maker": "Omega",
+   "title": "Speedmaster Professional",
+   "reference": "The Moonwatch",
+   "year": "Hesalite, manual wind",
+   "headline": "The chronograph NASA qualified in 1965, still made to the same idea.",
+   "story": [
+    "NASA tested chronographs to destruction in 1964 and 1965 and the Speedmaster was the one that survived. Buzz Aldrin wore his on the lunar surface in July 1969, which is why the Professional is still called the Moonwatch.",
+    "It remains a manual-wind chronograph under a hesalite crystal, with a black dial, three registers, and a tachymeter bezel. It asks you to wind it each morning, and that ritual is much of the charm."
+   ],
+   "provenance": [
+    "Detail views show the profile and the engraved caseback of the same reference"
+   ],
+   "condition": "Very good. Original bracelet with folding clasp.",
+   "specs": [
+    [
+     "Case",
+     "Stainless steel, 42 mm"
+    ],
+    [
+     "Movement",
+     "Manual-wind chronograph"
+    ],
+    [
+     "Dial",
+     "Black, three registers"
+    ],
+    [
+     "Bezel",
+     "Tachymeter scale"
+    ],
+    [
+     "Crystal",
+     "Hesalite"
+    ],
+    [
+     "Bracelet",
+     "Steel, folding clasp"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "speedmaster-1",
+     "alt": "Omega Speedmaster Professional with a black three-register chronograph dial and tachymeter bezel, on a black background"
+    },
+    {
+     "id": "speedmaster-2",
+     "alt": "Side view of an Omega Speedmaster Professional showing the chronograph pushers and crown"
+    },
+    {
+     "id": "speedmaster-3",
+     "alt": "The engraved caseback and bracelet of an Omega Speedmaster Professional"
+    }
+   ]
+  },
+  {
+   "slug": "audemars-piguet-royal-oak-15202",
+   "chapter": "steel",
+   "kind": "watch",
+   "featured": true,
+   "status": "available",
+   "maker": "Audemars Piguet",
+   "title": "Royal Oak \"Jumbo\" Extra-Thin",
+   "reference": "Ref. 15202ST",
+   "year": "2000–2022",
+   "headline": "Gérald Genta's octagon, at the original 39 mm and 8.1 mm thin.",
+   "story": [
+    "When Audemars Piguet showed the Royal Oak in 1972, a steel watch priced like gold was a provocation. The 15202 kept the proportions of that first ref. 5402: 39 mm across, extra-thin, with the octagonal bezel held by eight hexagonal screws.",
+    "Inside is calibre 2121, the ultra-thin automatic shared with the original. The blue Petite Tapisserie dial is the colour most people picture when they hear the name."
+   ],
+   "provenance": [
+    "Shown on the wrist for scale"
+   ],
+   "condition": "Very good. Brushed and polished surfaces crisp.",
+   "specs": [
+    [
+     "Case",
+     "Stainless steel, 39 mm, 8.1 mm thick"
+    ],
+    [
+     "Movement",
+     "Automatic, calibre 2121"
+    ],
+    [
+     "Dial",
+     "Blue Petite Tapisserie"
+    ],
+    [
+     "Bezel",
+     "Octagonal, eight hexagonal screws"
+    ],
+    [
+     "Water resistance",
+     "50 m"
+    ],
+    [
+     "Bracelet",
+     "Integrated steel"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "royaloak-1",
+     "alt": "Audemars Piguet Royal Oak 15202 with a blue tapisserie dial worn on a wrist",
+     "pos": "50% 45%"
+    },
+    {
+     "id": "ed_royaloakmvt-1",
+     "alt": "An Audemars Piguet calibre 2121 automatic movement with its gold rotor, the movement family used in the Royal Oak Jumbo"
+    }
+   ]
+  },
+  {
+   "slug": "patek-philippe-nautilus-5711",
+   "chapter": "steel",
+   "kind": "watch",
+   "featured": false,
+   "status": "reserved",
+   "maker": "Patek Philippe",
+   "title": "Nautilus",
+   "reference": "Ref. 5711/1A-010",
+   "year": "2006–2021",
+   "headline": "The blue gradient dial, horizontally embossed, in a 40 mm steel case.",
+   "story": [
+    "Gérald Genta drew the Nautilus in 1976 after the porthole of an ocean liner. The 5711/1A replaced the 3800 in 2006 and became the most sought-after steel watch of its time before Patek Philippe retired it in 2021.",
+    "The blue dial fades from light to near-black at the edge, under horizontal embossing. The integrated bracelet is finished by hand, alternately brushed and polished."
+   ],
+   "provenance": [
+    "Official Patek Philippe photography"
+   ],
+   "condition": "Reserved for a client.",
+   "specs": [
+    [
+     "Case",
+     "Stainless steel, 40 mm"
+    ],
+    [
+     "Movement",
+     "Automatic, self-winding with date"
+    ],
+    [
+     "Dial",
+     "Blue gradient, horizontally embossed"
+    ],
+    [
+     "Crystal",
+     "Sapphire, sapphire caseback"
+    ],
+    [
+     "Water resistance",
+     "120 m"
+    ],
+    [
+     "Bracelet",
+     "Integrated steel, fold-over clasp"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "nautilus-1",
+     "alt": "Patek Philippe Nautilus 5711/1A with a blue gradient embossed dial on its steel bracelet"
+    },
+    {
+     "id": "nautilus-2",
+     "alt": "Exploded view of the Patek Philippe Nautilus 5711 showing the case, dial, and crystals separated"
+    }
+   ]
+  },
+  {
+   "slug": "patek-philippe-calatrava-96",
+   "chapter": "gold",
+   "kind": "watch",
+   "featured": true,
+   "status": "available",
+   "maker": "Patek Philippe",
+   "title": "Calatrava",
+   "reference": "Ref. 96",
+   "year": "Late 1930s",
+   "headline": "The 1932 Calatrava that defined the round dress watch.",
+   "story": [
+    "Reference 96 was introduced in 1932, the year the Stern family took over Patek Philippe, and it became the template for every round dress watch since: a plain 31 mm case, a sector of nothing but proportion, and small seconds above six.",
+    "This late-1930s example has a silvered dial with applied batons and a sunken small-seconds register. It sits on a dark leather strap, as it would have when new."
+   ],
+   "provenance": [
+    "Late 1930s production, per the photographer's record"
+   ],
+   "condition": "Good for age. Dial with even, soft patina.",
+   "specs": [
+    [
+     "Case",
+     "Round, 31 mm"
+    ],
+    [
+     "Movement",
+     "Manual wind, small seconds"
+    ],
+    [
+     "Dial",
+     "Silvered, applied baton markers"
+    ],
+    [
+     "Strap",
+     "Leather"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "calatrava-1",
+     "alt": "Patek Philippe Calatrava ref. 96 from the late 1930s with a silvered dial and small seconds, on a dark leather strap",
+     "pos": "50% 45%"
+    }
+   ]
+  },
+  {
+   "slug": "jaeger-lecoultre-reverso-tribute",
+   "chapter": "gold",
+   "kind": "watch",
+   "featured": false,
+   "status": "available",
+   "maker": "Jaeger-LeCoultre",
+   "title": "Reverso Tribute Monoface",
+   "reference": "Small Seconds",
+   "year": "Tribute collection, 2016 onward",
+   "headline": "A case that turns over, designed in 1931 for polo players.",
+   "story": [
+    "The Reverso was made in 1931 so that officers playing polo in British India could flip the dial against the case and protect the crystal. The Tribute collection returns to the proportions and gadroons of those first cases.",
+    "This Monoface has a blue sunray dial with small seconds at six, on a strap made with Casa Fagliano, the Argentine polo-boot maker."
+   ],
+   "provenance": [
+    "Shown in its presentation box",
+    "Casa Fagliano strap"
+   ],
+   "condition": "Excellent. Shown in the box.",
+   "specs": [
+    [
+     "Case",
+     "Stainless steel, rectangular, reversible"
+    ],
+    [
+     "Movement",
+     "Manual wind, small seconds"
+    ],
+    [
+     "Dial",
+     "Blue sunray, applied markers"
+    ],
+    [
+     "Strap",
+     "Casa Fagliano leather"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "reverso-1",
+     "alt": "Jaeger-LeCoultre Reverso Tribute Monoface with a blue sunray dial, resting in its presentation box"
+    },
+    {
+     "id": "reverso-2",
+     "alt": "The Casa Fagliano leather strap of the Jaeger-LeCoultre Reverso, with the Jaeger-LeCoultre name on the box liner"
+    }
+   ]
+  },
+  {
+   "slug": "cartier-must-tank",
+   "chapter": "gold",
+   "kind": "watch",
+   "featured": true,
+   "status": "available",
+   "maker": "Cartier",
+   "title": "Must de Cartier Tank",
+   "reference": "Vermeil",
+   "year": "Late 1970s onward",
+   "headline": "Louis Cartier's 1917 rectangle, in gilded silver.",
+   "story": [
+    "Louis Cartier drew the Tank in 1917, taking its lines from the tracks of the tanks on the Western Front. In 1977 Les Must de Cartier brought it to a new generation in vermeil, sterling silver with a heavy gold plating.",
+    "The cream dial carries black Roman numerals, a railway minute track, and blued-steel sword hands. The crown is set with a blue cabochon, as Cartier crowns have been for a century."
+   ],
+   "provenance": [
+    "Les Must de Cartier line"
+   ],
+   "condition": "Very good. Even gilding.",
+   "specs": [
+    [
+     "Case",
+     "Vermeil (gold-plated sterling silver), rectangular"
+    ],
+    [
+     "Dial",
+     "Cream, black Roman numerals"
+    ],
+    [
+     "Hands",
+     "Blued steel, sword shaped"
+    ],
+    [
+     "Crown",
+     "Blue cabochon"
+    ],
+    [
+     "Strap",
+     "Black leather"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "tank-1",
+     "alt": "Must de Cartier Tank in vermeil with a cream Roman numeral dial and black leather strap, on a dark blue background",
+     "pos": "50% 50%"
+    }
+   ]
+  },
+  {
+   "slug": "rolex-daytona-16528",
+   "chapter": "gold",
+   "kind": "watch",
+   "featured": false,
+   "status": "available",
+   "maker": "Rolex",
+   "title": "Cosmograph Daytona",
+   "reference": "Ref. 16528",
+   "year": "c. 1993",
+   "headline": "The Zenith-powered Daytona, in 18 karat yellow gold.",
+   "story": [
+    "From 1988 to 2000 the automatic Daytona ran on calibre 4030, Rolex's heavily reworked version of the Zenith El Primero. Collectors call these the Zenith Daytonas, and the yellow gold 16528 is the most luminous of them.",
+    "This example carries an S-prefix serial, which places it in the early 1990s. The white dial with black registers reads cleanly against the gold."
+   ],
+   "provenance": [
+    "S-series serial, early 1990s"
+   ],
+   "condition": "Very good. Bracelet with light stretch for age.",
+   "specs": [
+    [
+     "Case",
+     "18 karat yellow gold, 40 mm"
+    ],
+    [
+     "Movement",
+     "Automatic chronograph, Rolex calibre 4030 (Zenith El Primero base)"
+    ],
+    [
+     "Dial",
+     "White, black registers"
+    ],
+    [
+     "Bezel",
+     "Engraved tachymeter"
+    ],
+    [
+     "Bracelet",
+     "18 karat yellow gold Oyster"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "daytona-1",
+     "alt": "Rolex Cosmograph Daytona 16528 in yellow gold with a white dial and black chronograph registers"
+    }
+   ]
+  },
+  {
+   "slug": "oscar-heyman-asymmetrical-bracelet",
+   "chapter": "light",
+   "kind": "jewelry",
+   "featured": true,
+   "status": "reference",
+   "maker": "Oscar Heyman & Brothers",
+   "title": "Asymmetrical Bracelet",
+   "reference": "New York",
+   "year": "Jazz Age",
+   "headline": "Made on the streets around ours, by the brothers who taught New York to set platinum.",
+   "story": [
+    "Oscar and Nathan Heyman apprenticed with an uncle in Kharkov who supplied Fabergé. In New York Oscar first worked for Pierre Cartier, and in 1912 the brothers founded Oscar Heyman & Brothers, making pieces for Cartier, Van Cleef & Arpels, and Shreve, Crump & Low before selling under their own name.",
+    "This diamond bracelet was shown in the Jazz Age exhibition at the Cleveland Museum of Art. Its panels break symmetry on purpose, which was a radical thing for a bracelet in the 1920s."
+   ],
+   "provenance": [
+    "Exhibited: \"Jazz Age: American Style in the 1920s\", Cleveland Museum of Art",
+    "Shown as a reference piece, not offered for sale"
+   ],
+   "condition": "Exhibition piece.",
+   "specs": [
+    [
+     "Maker",
+     "Oscar Heyman & Brothers, New York"
+    ],
+    [
+     "Period",
+     "1920s"
+    ],
+    [
+     "Stones",
+     "Diamonds"
+    ],
+    [
+     "Form",
+     "Articulated panel bracelet, asymmetrical design"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "heyman-1",
+     "alt": "Oscar Heyman and Brothers Art Deco diamond bracelet with asymmetrical geometric panels, displayed vertically on black",
+     "pos": "50% 35%"
+    }
+   ]
+  },
+  {
+   "slug": "cartier-brooch-with-pendant",
+   "chapter": "light",
+   "kind": "jewelry",
+   "featured": false,
+   "status": "reference",
+   "maker": "Cartier",
+   "title": "Brooch with Pendant",
+   "reference": "Art Deco",
+   "year": "1920s",
+   "headline": "A geometric diamond brooch with a single pearl drop.",
+   "story": [
+    "Cartier's Art Deco brooches traded the garlands of the Belle Époque for open geometry: frames, steps, and triangles of diamonds set in platinum-white mounts.",
+    "This brooch suspends a pearl from a diamond triangle beneath an open rectangular frame. It was shown in the Jazz Age exhibition at the Cleveland Museum of Art."
+   ],
+   "provenance": [
+    "Exhibited: \"Jazz Age: American Style in the 1920s\", Cleveland Museum of Art",
+    "Shown as a reference piece, not offered for sale"
+   ],
+   "condition": "Exhibition piece.",
+   "specs": [
+    [
+     "Maker",
+     "Cartier"
+    ],
+    [
+     "Period",
+     "1920s, Art Deco"
+    ],
+    [
+     "Stones",
+     "Diamonds, pearl drop"
+    ],
+    [
+     "Form",
+     "Brooch with detachable-style pendant"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "cartierbrooch-1",
+     "alt": "Cartier Art Deco diamond brooch with an open geometric frame and a pearl drop pendant, on dark fabric"
+    }
+   ]
+  },
+  {
+   "slug": "van-cleef-arpels-pendant-watch",
+   "chapter": "light",
+   "kind": "jewelry",
+   "featured": true,
+   "status": "reference",
+   "maker": "Van Cleef & Arpels",
+   "title": "Pendant Watch",
+   "reference": "1927",
+   "year": "1927",
+   "headline": "A chatelaine of platinum, diamonds, and pearls, with a watch hidden in the drop.",
+   "story": [
+    "Van Cleef & Arpels won the grand prize at the 1925 Paris exposition that gave Art Deco its name. Two years later the house made this pendant in platinum, diamonds, and pearls, after the form of a chatelaine, the chains once worn at the belt to carry keys.",
+    "The slender watch sits inside the pendant at the bottom, its movement by an unrecorded craftsman. It is jewellery first, and a watch only for the person who knows to look."
+   ],
+   "provenance": [
+    "Exhibited: \"Jazz Age: American Style in the 1920s\", Cleveland Museum of Art",
+    "Shown as a reference piece, not offered for sale"
+   ],
+   "condition": "Exhibition piece.",
+   "specs": [
+    [
+     "Maker",
+     "Van Cleef & Arpels, Paris"
+    ],
+    [
+     "Date",
+     "1927"
+    ],
+    [
+     "Materials",
+     "Platinum, diamonds, pearls"
+    ],
+    [
+     "Form",
+     "Chatelaine-style pendant enclosing a watch"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "vcawatch-1",
+     "alt": "Van Cleef and Arpels 1927 pendant watch in platinum with diamonds and pearls, shaped like a chatelaine, on black",
+     "pos": "50% 30%"
+    }
+   ]
+  },
+  {
+   "slug": "tiffany-iris-corsage-ornament",
+   "chapter": "colour",
+   "kind": "jewelry",
+   "featured": true,
+   "status": "reference",
+   "maker": "Tiffany & Co.",
+   "title": "Iris Corsage Ornament",
+   "reference": "Designed by G. Paulding Farnham",
+   "year": "c. 1900",
+   "headline": "Montana sapphires in a life-size iris, shown at the 1900 Paris Exposition.",
+   "story": [
+    "At the turn of the century Tiffany & Co. made a series of realistic floral jewels, and this iris, designed by G. Paulding Farnham, was part of the firm's display at the Exposition Universelle of 1900 in Paris.",
+    "The petals are set with faceted blue sapphires from Montana that vary in tone and size, in oxidised silver. Citrines in gold collets suggest the bearding of the falls, and demantoid garnets set à jour form the leaves on an etched gold stem. It is in the collection of the Walters Art Museum, Baltimore."
+   ],
+   "provenance": [
+    "Walters Art Museum, Baltimore (57.939)",
+    "Exposition Universelle, Paris, 1900",
+    "Shown as a reference piece, not offered for sale"
+   ],
+   "condition": "Museum collection.",
+   "specs": [
+    [
+     "Maker",
+     "Tiffany & Co., New York"
+    ],
+    [
+     "Designer",
+     "G. Paulding Farnham"
+    ],
+    [
+     "Date",
+     "c. 1900"
+    ],
+    [
+     "Stones",
+     "Sapphires, demantoid garnets, citrines"
+    ],
+    [
+     "Metals",
+     "Oxidised silver and gold"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "iris-3",
+     "alt": "Tiffany and Company iris corsage ornament with blue sapphire petals and a gold stem, on black"
+    },
+    {
+     "id": "iris-1",
+     "alt": "The full Tiffany iris corsage ornament standing on its long gold stem against a grey background"
+    },
+    {
+     "id": "iris-2",
+     "alt": "Detail of the Tiffany iris corsage ornament showing the sapphire petals and demantoid garnet leaves"
+    }
+   ]
+  },
+  {
+   "slug": "cartier-maximilian-emerald-ring",
+   "chapter": "colour",
+   "kind": "jewelry",
+   "featured": false,
+   "status": "reference",
+   "maker": "Cartier",
+   "title": "Maximilian Emerald Ring",
+   "reference": "21.04 carats",
+   "year": "Colombian emerald",
+   "headline": "The 21-carat Colombian emerald once worn by Mexico's emperor.",
+   "story": [
+    "The emerald was once set in a ring worn by Ferdinand Maximilian Joseph, the Austrian archduke crowned Emperor of Mexico in 1864 and executed three years later.",
+    "Today it is mounted in a ring by Cartier, flanked by step-cut diamonds, and it is in the National Gem Collection at the Smithsonian National Museum of Natural History in Washington."
+   ],
+   "provenance": [
+    "Smithsonian National Museum of Natural History, Washington",
+    "Shown as a reference piece, not offered for sale"
+   ],
+   "condition": "Museum collection.",
+   "specs": [
+    [
+     "Stone",
+     "Emerald, 21.04 carats, Colombia"
+    ],
+    [
+     "Setting",
+     "Ring by Cartier, Inc."
+    ],
+    [
+     "Accents",
+     "Step-cut diamonds"
+    ],
+    [
+     "Collection",
+     "National Gem Collection, Smithsonian"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "maximilian-1",
+     "alt": "The Maximilian emerald ring, a large step-cut Colombian emerald flanked by diamonds, on display against black"
+    },
+    {
+     "id": "maximilian-2",
+     "alt": "The Maximilian emerald ring lit in its museum case, casting shadows on the wall behind"
+    }
+   ]
+  },
+  {
+   "slug": "cartier-tutti-frutti-bracelet",
+   "chapter": "colour",
+   "kind": "jewelry",
+   "featured": true,
+   "status": "reference",
+   "maker": "Cartier",
+   "title": "Tutti Frutti Bracelet",
+   "reference": "Carved gems",
+   "year": "Art Deco",
+   "headline": "Carved emeralds, rubies, and sapphires, set the way Cartier learned from India.",
+   "story": [
+    "In the 1920s Cartier began setting carved Indian emeralds, rubies, and sapphires among diamonds in platinum. The style was later nicknamed Tutti Frutti, and these bracelets became some of the most recognisable jewels of the Art Deco period.",
+    "This bracelet was shown in the Jazz Age exhibition at the Cleveland Museum of Art. Every leaf and berry is carved, so the surface reads like a garden rather than a row of stones."
+   ],
+   "provenance": [
+    "Exhibited: \"Jazz Age: American Style in the 1920s\", Cleveland Museum of Art",
+    "Shown as a reference piece, not offered for sale"
+   ],
+   "condition": "Exhibition piece.",
+   "specs": [
+    [
+     "Maker",
+     "Cartier"
+    ],
+    [
+     "Period",
+     "Art Deco"
+    ],
+    [
+     "Stones",
+     "Carved emeralds, rubies, sapphires; diamonds"
+    ],
+    [
+     "Form",
+     "Flexible line bracelet"
+    ]
+   ],
+   "photos": [
+    {
+     "id": "tutti-1",
+     "alt": "Cartier Tutti Frutti bracelet with carved emeralds, rubies, and sapphires among diamonds, on dark fabric"
+    }
+   ]
+  }
+ ]
 }

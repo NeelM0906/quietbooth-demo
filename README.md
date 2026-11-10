@@ -2,7 +2,7 @@
 
 QuietBooth is a static website template for an appointment-only watch and jewelry salon. It ships as plain HTML, CSS, and JavaScript. Open `index.html` through any static server and the site works. There is no framework and nothing to install to view or deploy it.
 
-The brand, pieces, people, and addresses in this demo are fictional. Every product image is a generated illustration and is labelled as one on the page.
+The brand, people, and addresses in this demo are fictional. The pieces are real, identifiable watches and jewels, and every image is a real photograph used under a free licence (see `CREDITS.md` and `/credits/`).
 
 ## What is in the box
 
@@ -13,7 +13,7 @@ The brand, pieces, people, and addresses in this demo are fictional. Every produ
 | `content/journal.json` | Journal articles. |
 | `content/faq.json` | FAQ groups. |
 | `build/build.mjs` | Reads the config and content and writes every page. Node 18 or later, no dependencies. |
-| `build/art.mjs` | Draws the demo SVG product illustrations from each piece's `art` spec. |
+| `content/photos.json` | Photo manifest: size, responsive widths, author, licence, and source for every image in `assets/photo/`. |
 | `assets/css/site.css` | The stylesheet. |
 | `assets/css/tokens.css` | Color tokens. Generated from the config. |
 | `assets/js/site.js` | Forms, appointment calendar, menu, gallery, filter, and motion. |
@@ -32,7 +32,7 @@ Pages: home, lookbook, 15 piece pages, private appointment, the house, authentic
 	node build/build.mjs
 	```
 
-	The build prints `built 30 pages and 61 images`.
+	The build prints `built 31 pages and 30 photographs`.
 
 3. Preview the result.
 
@@ -72,16 +72,16 @@ Each piece in `content/pieces.json` has this shape.
 	"provenance": ["Single owner since new"],
 	"condition": "Excellent. Case unpolished.",
 	"specs": [["Case", "Stainless steel, 38 mm"]],
-	"art": { "type": "watch", "case": "round", "metal": "steel" }
+	"photos": [{ "id": "lumen-38-front", "alt": "The Lumen 38 with a slate dial, front view" }]
 }
 ```
 
 - `chapter` must match an `id` in `chapters`.
 - `kind` is `watch` or `jewelry`. The lookbook filter uses it.
-- `status` is `available`, `on-hold`, or `reserved`. A reserved piece swaps its button for "Ask to be told if it returns".
+- `status` is `available`, `on-hold`, `reserved`, or `reference` (a museum or exhibition piece shown for reference; its button becomes "Ask us to find one like it"). A reserved piece swaps its button for "Ask to be told if it returns".
 - `featured: true` puts the piece on the home page. Six works best.
 
-To use photographs, put four images per piece in `assets/art/` with the names `<slug>-front`, `<slug>-detail`, `<slug>-study`, and `<slug>-wide`, then remove the `renderArt` loop near the end of `build/build.mjs`. Keep the extension consistent with the `src` paths in the build, or change those paths to `.jpg` or `.webp`. Shoot every piece on the same surface in daylight. The layout depends on that consistency more than on the quality of any single photograph.
+Photographs: each piece has a `photos` list of `{ "id", "alt", "pos" }`. The `id` points to an entry in `content/photos.json` and files named `assets/photo/<id>-<width>.webp` (480, 960, and 1600 wide). `pos` is an optional CSS `object-position` for the crop. Write real descriptive alt text. Add your own photos by resizing them to those widths and adding a manifest entry with author, licence, and source; the credits page builds itself from the manifest. Shoot every piece on the same surface in daylight for production.
 
 Prices are never shown. The site asks guests to request a price in writing. To show prices, add a `price` field and render it in `piecePage` in `build/build.mjs`.
 

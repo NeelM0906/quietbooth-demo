@@ -1,0 +1,420 @@
+{
+ "submariner-1": {
+  "w": 2592,
+  "h": 1944,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Dr.K.",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Rolex_Submariner_Professional.JPG",
+  "title": "Rolex Submariner Professional.JPG"
+ },
+ "submariner-2": {
+  "w": 1867,
+  "h": 1828,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Dr.K.",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Back_of_Rolex_Submariner_Professional.JPG",
+  "title": "Back of Rolex Submariner Professional.JPG"
+ },
+ "submariner-3": {
+  "w": 2592,
+  "h": 1944,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "No machine-readable author provided. Tasoskessaris assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Edge_view_of_Rolex_Submariner_Professional.JPG",
+  "title": "Edge view of Rolex Submariner Professional.JPG"
+ },
+ "gmt-1": {
+  "w": 1606,
+  "h": 1850,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "File:Rolex GMT Master II - 16710 in it sitting on top of the box.jpg: Peter WILSON\nderivative work: Pittigrilli",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rolex_GMT_Master_II_-_16710_(without_background).jpg",
+  "title": "Rolex GMT Master II - 16710 (without background).jpg"
+ },
+ "gmt-2": {
+  "w": 2214,
+  "h": 1476,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Peter WILSON",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rolex_GMT_Master_II_-_16710_in_it_sitting_on_top_of_the_box.jpg",
+  "title": "Rolex GMT Master II - 16710 in it sitting on top of the box.jpg"
+ },
+ "speedmaster-1": {
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   480,
+   960
+  ],
+  "author": "Torsten Bolten",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:OMEGA-Speedmaster-Professional-Front.jpg",
+  "title": "OMEGA-Speedmaster-Professional-Front.jpg"
+ },
+ "speedmaster-2": {
+  "w": 1373,
+  "h": 486,
+  "widths": [
+   480,
+   960,
+   1373
+  ],
+  "author": "Auge=mit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Side_view_on_Omega_Speedmaster_Professional_(cropped_twice).jpg",
+  "title": "Side view on Omega Speedmaster Professional (cropped twice).jpg"
+ },
+ "speedmaster-3": {
+  "w": 1297,
+  "h": 1875,
+  "widths": [
+   480,
+   960,
+   1297
+  ],
+  "author": "Auge=mit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Folding_clasp_of_an_Omega_Speedmaster_Professional_wristwatch.jpg",
+  "title": "Folding clasp of an Omega Speedmaster Professional wristwatch.jpg"
+ },
+ "royaloak-1": {
+  "w": 3024,
+  "h": 4032,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "OpaleHorse",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Audemars_Piguet_Royal_Oak_ref._15202.jpg",
+  "title": "Audemars Piguet Royal Oak ref. 15202.jpg"
+ },
+ "nautilus-1": {
+  "w": 1439,
+  "h": 1800,
+  "widths": [
+   480,
+   960,
+   1439
+  ],
+  "author": "Patek Philippe SA",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Patek-Philippe-Nautilus-5711-1A-010-1.jpg",
+  "title": "Patek-Philippe-Nautilus-5711-1A-010-1.jpg"
+ },
+ "nautilus-2": {
+  "w": 1253,
+  "h": 1500,
+  "widths": [
+   480,
+   960,
+   1253
+  ],
+  "author": "Patek Philippe SA",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Patek-Philippe-Nautilus-5711.jpg",
+  "title": "Patek-Philippe-Nautilus-5711.jpg"
+ },
+ "calatrava-1": {
+  "w": 1249,
+  "h": 1782,
+  "widths": [
+   480,
+   960,
+   1249
+  ],
+  "author": "EMore98",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Patek_Philippe_Calatrava_ref._96,_fine_anni_Trenta.jpg",
+  "title": "Patek Philippe Calatrava ref. 96, fine anni Trenta.jpg"
+ },
+ "reverso-1": {
+  "w": 1511,
+  "h": 1774,
+  "widths": [
+   480,
+   960,
+   1511
+  ],
+  "author": "Provo rossi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:JLC_Reverso_Tribute_Monoface.jpg",
+  "title": "JLC Reverso Tribute Monoface.jpg"
+ },
+ "reverso-2": {
+  "w": 2094,
+  "h": 1724,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Provo rossi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Casa_Fagliano_Leather_Strap_(Jaeger-LeCoultre_Reverso).jpg",
+  "title": "Casa Fagliano Leather Strap (Jaeger-LeCoultre Reverso).jpg"
+ },
+ "tank-1": {
+  "w": 2726,
+  "h": 1817,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Guy Sie",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cartier_Tank.jpg",
+  "title": "Cartier Tank.jpg"
+ },
+ "daytona-1": {
+  "w": 2000,
+  "h": 1331,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Alesili",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Daytona_16528.jpg",
+  "title": "Daytona 16528.jpg"
+ },
+ "heyman-1": {
+  "w": 1042,
+  "h": 2500,
+  "widths": [
+   480,
+   960,
+   1042
+  ],
+  "author": "Tim Evanson from Cleveland Heights, Ohio, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Asymmetrical_bracelet_-_Oscar_Heyman_and_Bros_(38866307855).jpg",
+  "title": "Asymmetrical bracelet - Oscar Heyman and Bros (38866307855).jpg"
+ },
+ "cartierbrooch-1": {
+  "w": 2500,
+  "h": 1938,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Tim Evanson from Cleveland Heights, Ohio, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Brooch_with_pendant_-_Cartier_(39731099992).jpg",
+  "title": "Brooch with pendant - Cartier (39731099992).jpg"
+ },
+ "vcawatch-1": {
+  "w": 1332,
+  "h": 2500,
+  "widths": [
+   480,
+   960,
+   1332
+  ],
+  "author": "Tim Evanson from Cleveland Heights, Ohio, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pendant_watch_-_Van_Cleef_and_Arpels_(38772069405).jpg",
+  "title": "Pendant watch - Van Cleef and Arpels (38772069405).jpg"
+ },
+ "iris-1": {
+  "w": 1456,
+  "h": 1799,
+  "widths": [
+   480,
+   960,
+   1456
+  ],
+  "author": "Tiffany & Co.",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_-_Iris_Corsage_Ornament_-_Walters_57939.jpg",
+  "title": "Tiffany and Company - Iris Corsage Ornament - Walters 57939.jpg"
+ },
+ "maximilian-1": {
+  "w": 1607,
+  "h": 1205,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "thisisbossi",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Maximilian_Emerald_Ring_3527527000_4fb347d000.jpg",
+  "title": "Maximilian Emerald Ring 3527527000 4fb347d000.jpg"
+ },
+ "maximilian-2": {
+  "w": 3840,
+  "h": 2880,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "thisisbossi from Washington, DC, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2009_04_19_-_4712_-_Washington_DC_-_Natural_History_Museum_-_Maximilian_Emerald_Ring_(3526716073).jpg",
+  "title": "2009 04 19 - 4712 - Washington DC - Natural History Museum - Maximilian Emerald Ring (3526716073).jpg"
+ },
+ "tutti-1": {
+  "w": 2500,
+  "h": 1064,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Tim Evanson from Cleveland Heights, Ohio, USA",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tutti_frutti_bracelet_-_Cartier_(25802475508).jpg",
+  "title": "Tutti frutti bracelet - Cartier (25802475508).jpg"
+ },
+ "ed_47th-1": {
+  "w": 3840,
+  "h": 2560,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Tdorante10",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:47th_St_6th_Av_td_39_-_Diamond_District.jpg",
+  "title": "47th St 6th Av td 39 - Diamond District.jpg"
+ },
+ "ed_47th2-1": {
+  "w": 3840,
+  "h": 2880,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Tdorante10",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:W_47th_St_5th_Av_01_-_Diamond_District.jpg",
+  "title": "W 47th St 5th Av 01 - Diamond District.jpg"
+ },
+ "ed_bench-1": {
+  "w": 2048,
+  "h": 1152,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Y\u0131lmaz Kilim",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Watchmaker_(184539829).jpeg",
+  "title": "Watchmaker (184539829).jpeg"
+ },
+ "ed_movement-1": {
+  "w": 1963,
+  "h": 2944,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Guy Sie from Utrecht, Netherlands",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stowa_Antea_ETA_2824_macro_(3389998183).jpg",
+  "title": "Stowa Antea ETA 2824 macro (3389998183).jpg"
+ },
+ "ed_royaloakmvt-1": {
+  "w": 1600,
+  "h": 1563,
+  "widths": [
+   480,
+   960
+  ],
+  "author": "EMore98",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Calibro_Audemars_Piguet_2121_con_rotore_personalizzato_e_numerato_per_i_20_anni_dalla_nascita_del_Royal_Oak._Montato_sulla_ref._14802_del_1992..jpg",
+  "title": "Calibro Audemars Piguet 2121 con rotore personalizzato e numerato per i 20 anni dalla nascita del Royal Oak. Montato sulla ref. 14802 del 1992..jpg"
+ },
+ "iris-2": {
+  "w": 1800,
+  "h": 1800,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "author": "Tiffany & Co.",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_-_Iris_Corsage_Ornament_-_Walters_57939_-_Detail.jpg",
+  "title": "Tiffany and Company - Iris Corsage Ornament - Walters 57939 - Detail.jpg"
+ },
+ "iris-3": {
+  "w": 1446,
+  "h": 2066,
+  "widths": [
+   480,
+   960,
+   1446
+  ],
+  "author": "Walters Art Museum\n\nderivative work: Br'er Rabbit",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_Iris_Corsage_Ornament_Walters_57939_Detail_croped.jpg",
+  "title": "Tiffany and Company Iris Corsage Ornament Walters 57939 Detail croped.jpg"
+ }
+}

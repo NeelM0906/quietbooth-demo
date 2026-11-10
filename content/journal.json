@@ -1,78 +1,154 @@
 {
-  "articles": [
+ "articles": [
+  {
+   "slug": "how-we-open-a-watch",
+   "title": "How we open a watch before we offer it",
+   "dek": "Every watch in the salon has been opened, measured, and written up by a watchmaker. This is what that looks like on an ordinary Tuesday.",
+   "date": "2026-10-14",
+   "author": "Daniel Okafor",
+   "piece": "rolex-submariner-16800",
+   "body": [
     {
-      "slug": "how-we-open-a-watch",
-      "title": "How we open a watch before we offer it",
-      "dek": "Every watch in the salon has been opened, measured, and written up by a watchmaker. This is what that looks like on an ordinary Tuesday.",
-      "date": "2026-10-14",
-      "author": "Daniel Okafor",
-      "piece": "haldane-traverse-chronograph",
-      "body": [
-        { "p": "Most of the watches that come up the stairs to us are what they claim to be. A few are not, and a larger number are almost what they claim to be. That last group is the one that costs collectors money." },
-        { "h": "The case comes off first" },
-        { "p": "Before anything is photographed, the caseback is opened under a dust cover. We compare the calibre and its serial to the case, and both to the papers. A movement that is correct for the model but wrong for the year is the most common problem we find, and the hardest to see from outside." },
-        { "p": "We then look at the dial under ten times magnification. Printing on an original dial has a slight relief and a consistent edge. Refinished dials tend to show softer letters, or letters that sit a fraction too high on the surface." },
-        { "q": "We would rather lose a watch than sell one we have to explain later." },
-        { "h": "Then the case is measured" },
-        { "p": "Polishing removes metal. We measure lug thickness and compare it to factory references, and we look for the sharp transitions between brushed and polished surfaces that a factory leaves and a polishing wheel softens." },
-        { "p": "None of this is unusual. It is simply done every time, and written down. The notes you read on each piece in our lookbook come from this bench, in plain words, including the things a seller might prefer to leave out." },
-        { "h": "What you receive" },
-        { "p": "Every watch leaves with a dossier: photographs of the movement, our measurements, the service history we can verify, and any replaced parts in a sealed envelope. If you ever sell the watch, that dossier is worth having." }
-      ]
+     "p": "Most of the watches that come up the stairs to us are what they claim to be. A few are not, and a larger number are almost what they claim to be. That last group is the one that costs collectors money."
     },
     {
-      "slug": "why-the-best-stones-are-upstairs",
-      "title": "Why the best stones are never in the window",
-      "dek": "On 47th Street the windows are at street level and the serious stones are several floors above. There is a reason for that.",
-      "date": "2026-09-22",
-      "author": "Miriam Adler",
-      "piece": "oval-solitaire-302",
-      "body": [
-        { "p": "Walk down West 47th Street and you will see a great deal of light in the windows. Much of it is lovely. Very little of it is what a careful buyer is looking for, and the dealers know this." },
-        { "h": "Light is the problem" },
-        { "p": "Shop windows are lit to flatter every stone equally. Under strong spot lighting a slightly yellow diamond looks white and a poorly cut one looks lively. In daylight, near a north-facing window, the differences come back." },
-        { "p": "That is why we show stones by appointment, at a table by the window, with a daylight lamp beside it. You see the diamond the way you will see it at dinner and on a grey morning, not only under a jeweller's spotlight." },
-        { "q": "A diamond should look right in the worst light you will ever wear it in." },
-        { "h": "Time is the other problem" },
-        { "p": "Choosing a serious stone takes an hour, sometimes two. You should be able to compare three stones side by side, read their reports, and ask the same question twice without feeling rushed. A counter at street level is not built for that." },
-        { "p": "So we keep the door closed and the room quiet. It is not about exclusivity. It is about giving a decision of this size the conditions it deserves." }
-      ]
+     "h": "The case comes off first"
     },
     {
-      "slug": "the-case-for-patina",
-      "title": "The case for patina",
-      "dek": "Why we tell clients not to polish, and how to read the honest wear on a watch that has lived a life.",
-      "date": "2026-08-30",
-      "author": "Daniel Okafor",
-      "piece": "aubrac-tonneau-1938",
-      "body": [
-        { "p": "A watch that has been worn for fifty years should look like it. The question is whether the wear is honest: even, consistent with age, and free of the work someone did to hide it." },
-        { "h": "Polish is not a repair" },
-        { "p": "Every polish removes a little metal and a little of the original shape. Done once, carefully, it may be invisible. Done three times, it rounds the edges a designer drew sharp, and the value follows." },
-        { "p": "We describe the state of every case in plain words. Unpolished means we see factory finishing. Lightly polished means we can see it has been done and the shape is intact. We do not use softer words than that." },
-        { "q": "Honest wear is information. A refinished surface is a sentence someone has erased." },
-        { "h": "Dials age, and that is fine" },
-        { "p": "A cream dial that has turned evenly to ivory, or luminous paint that has warmed to the colour of tea, is part of a watch's story. Uneven damage is different, and we will show it to you under the loupe before you ask." }
-      ]
+     "p": "Before anything is photographed, the caseback is opened under a dust cover. We compare the calibre and its serial to the case, and both to the papers. A movement that is correct for the model but wrong for the year is the most common problem we find, and the hardest to see from outside."
     },
     {
-      "slug": "what-to-bring-to-a-viewing",
-      "title": "What to bring to a private viewing",
-      "dek": "A short, practical note for anyone coming to see us for the first time.",
-      "date": "2026-07-18",
-      "author": "Lena Voronova",
-      "piece": "riviere-1952",
-      "body": [
-        { "p": "A first appointment is unhurried. Most guests stay for about an hour. You do not need to know exactly what you want, but a few things make the time more useful." },
-        { "h": "Bring what you wear" },
-        { "p": "If you are choosing a watch, wear the one you wear most. It tells us about your wrist, your habits, and your taste faster than any conversation. For jewellery, wear what you would wear with it: a ring you will stack, the neckline you love." },
-        { "h": "Bring a question you are unsure about" },
-        { "p": "Every guest has one. Whether a stone is too large, whether a vintage watch is practical, whether something is worth what it costs. Ask it early. We would rather talk you out of a piece than sell you one you doubt." },
-        { "q": "The best appointments end with a decision or with a reason to wait, and both are fine." },
-        { "h": "Bring identification" },
-        { "p": "The building asks every visitor for photo identification at the front desk. This is for everyone's security, and the name is held only by the building and by us." },
-        { "p": "If you prefer not to be seen arriving, tell us. We can meet you at the side entrance or arrange a viewing elsewhere in the city." }
-      ]
+     "p": "We then look at the dial under ten times magnification. Printing on an original dial has a slight relief and a consistent edge. Refinished dials tend to show softer letters, or letters that sit a fraction too high on the surface."
+    },
+    {
+     "q": "We would rather lose a watch than sell one we have to explain later."
+    },
+    {
+     "h": "Then the case is measured"
+    },
+    {
+     "p": "Polishing removes metal. We measure lug thickness and compare it to factory references, and we look for the sharp transitions between brushed and polished surfaces that a factory leaves and a polishing wheel softens."
+    },
+    {
+     "p": "None of this is unusual. It is simply done every time, and written down. The notes you read on each piece in our lookbook come from this bench, in plain words, including the things a seller might prefer to leave out."
+    },
+    {
+     "h": "What you receive"
+    },
+    {
+     "p": "Every watch leaves with a dossier: photographs of the movement, our measurements, the service history we can verify, and any replaced parts in a sealed envelope. If you ever sell the watch, that dossier is worth having."
     }
-  ]
+   ],
+   "image": "ed_movement-1",
+   "imageAlt": "Macro photograph of an automatic watch movement, an ETA 2824 with a signed rotor"
+  },
+  {
+   "slug": "why-the-best-stones-are-upstairs",
+   "title": "Why the best stones are never in the window",
+   "dek": "On 47th Street the windows are at street level and the serious stones are several floors above. There is a reason for that.",
+   "date": "2026-09-22",
+   "author": "Miriam Adler",
+   "piece": "cartier-maximilian-emerald-ring",
+   "body": [
+    {
+     "p": "Walk down West 47th Street and you will see a great deal of light in the windows. Much of it is lovely. Very little of it is what a careful buyer is looking for, and the dealers know this."
+    },
+    {
+     "h": "Light is the problem"
+    },
+    {
+     "p": "Shop windows are lit to flatter every stone equally. Under strong spot lighting a slightly yellow diamond looks white and a poorly cut one looks lively. In daylight, near a north-facing window, the differences come back."
+    },
+    {
+     "p": "That is why we show stones by appointment, at a table by the window, with a daylight lamp beside it. You see the diamond the way you will see it at dinner and on a grey morning, not only under a jeweller's spotlight."
+    },
+    {
+     "q": "A diamond should look right in the worst light you will ever wear it in."
+    },
+    {
+     "h": "Time is the other problem"
+    },
+    {
+     "p": "Choosing a serious stone takes an hour, sometimes two. You should be able to compare three stones side by side, read their reports, and ask the same question twice without feeling rushed. A counter at street level is not built for that."
+    },
+    {
+     "p": "So we keep the door closed and the room quiet. It is not about exclusivity. It is about giving a decision of this size the conditions it deserves."
+    }
+   ],
+   "image": "ed_47th-1",
+   "imageAlt": "Diamond-shaped streetlights at the Sixth Avenue end of West 47th Street in the Diamond District"
+  },
+  {
+   "slug": "the-case-for-patina",
+   "title": "The case for patina",
+   "dek": "Why we tell clients not to polish, and how to read the honest wear on a watch that has lived a life.",
+   "date": "2026-08-30",
+   "author": "Daniel Okafor",
+   "piece": "patek-philippe-calatrava-96",
+   "body": [
+    {
+     "p": "A watch that has been worn for fifty years should look like it. The question is whether the wear is honest: even, consistent with age, and free of the work someone did to hide it."
+    },
+    {
+     "h": "Polish is not a repair"
+    },
+    {
+     "p": "Every polish removes a little metal and a little of the original shape. Done once, carefully, it may be invisible. Done three times, it rounds the edges a designer drew sharp, and the value follows."
+    },
+    {
+     "p": "We describe the state of every case in plain words. Unpolished means we see factory finishing. Lightly polished means we can see it has been done and the shape is intact. We do not use softer words than that."
+    },
+    {
+     "q": "Honest wear is information. A refinished surface is a sentence someone has erased."
+    },
+    {
+     "h": "Dials age, and that is fine"
+    },
+    {
+     "p": "A cream dial that has turned evenly to ivory, or luminous paint that has warmed to the colour of tea, is part of a watch's story. Uneven damage is different, and we will show it to you under the loupe before you ask."
+    }
+   ],
+   "image": "ed_bench-1",
+   "imageAlt": "A watchmaker at his workbench with a loupe, in black and white"
+  },
+  {
+   "slug": "what-to-bring-to-a-viewing",
+   "title": "What to bring to a private viewing",
+   "dek": "A short, practical note for anyone coming to see us for the first time.",
+   "date": "2026-07-18",
+   "author": "Lena Voronova",
+   "piece": "van-cleef-arpels-pendant-watch",
+   "body": [
+    {
+     "p": "A first appointment is unhurried. Most guests stay for about an hour. You do not need to know exactly what you want, but a few things make the time more useful."
+    },
+    {
+     "h": "Bring what you wear"
+    },
+    {
+     "p": "If you are choosing a watch, wear the one you wear most. It tells us about your wrist, your habits, and your taste faster than any conversation. For jewellery, wear what you would wear with it: a ring you will stack, the neckline you love."
+    },
+    {
+     "h": "Bring a question you are unsure about"
+    },
+    {
+     "p": "Every guest has one. Whether a stone is too large, whether a vintage watch is practical, whether something is worth what it costs. Ask it early. We would rather talk you out of a piece than sell you one you doubt."
+    },
+    {
+     "q": "The best appointments end with a decision or with a reason to wait, and both are fine."
+    },
+    {
+     "h": "Bring identification"
+    },
+    {
+     "p": "The building asks every visitor for photo identification at the front desk. This is for everyone's security, and the name is held only by the building and by us."
+    },
+    {
+     "p": "If you prefer not to be seen arriving, tell us. We can meet you at the side entrance or arrange a viewing elsewhere in the city."
+    }
+   ],
+   "image": "ed_47th2-1",
+   "imageAlt": "Diamond-shaped streetlights at the Fifth Avenue end of West 47th Street, with towers behind"
+  }
+ ]
 }
