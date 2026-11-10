@@ -139,7 +139,7 @@
     if (!g) return;
     const slides = $$('[data-slide]', g), thumbs = $$('[data-thumb]', g);
     const show = (i) => {
-      slides.forEach((s, k) => { s.classList.toggle('is-active', k === i); s.setAttribute('aria-hidden', String(k !== i)); });
+      slides.forEach((s, k) => { s.classList.toggle('is-active', k === i); s.setAttribute('aria-hidden', String(k !== i)); s.inert = k !== i; });
       thumbs.forEach((t, k) => t.setAttribute('aria-pressed', String(k === i)));
     };
     show(0);

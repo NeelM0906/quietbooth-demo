@@ -2,7 +2,7 @@ import { execFileSync } from 'node:child_process';
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 
 const BASE = process.env.BASE || 'http://127.0.0.1:8765';
-const PAGES = ['', 'lookbook/', 'pieces/colombian-emerald-ring/', 'appointment/'];
+const PAGES = ['', 'lookbook/', 'pieces/rolex-submariner-16800/', 'appointment/'];
 const CATS = ['performance', 'accessibility', 'best-practices', 'seo'];
 const out = new URL('../screenshots/lighthouse/', import.meta.url).pathname;
 mkdirSync(out, { recursive: true });

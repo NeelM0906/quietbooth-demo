@@ -62,8 +62,8 @@ const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } })
 const page = await ctx.newPage();
 page.on('pageerror', (e) => results.consoleErrors.push(`flow: ${e.message}`));
 
-await page.goto(BASE + 'appointment/?piece=oval-solitaire-302');
-check('appointment preselects piece from ?piece=', (await page.textContent('[data-chosen]')).includes('Oval Solitaire'));
+await page.goto(BASE + 'appointment/?piece=rolex-submariner-16800');
+check('appointment preselects piece from ?piece=', (await page.textContent('[data-chosen]')).includes('Submariner Date'));
 await page.click('button[type="submit"]');
 const errText = await page.textContent('[data-errors]');
 check('empty submit shows error summary', /Choose a date/.test(errText) && /Enter your name/.test(errText), errText.replace(/\s+/g, ' ').slice(0, 90));
@@ -80,7 +80,7 @@ await slot.check({ force: true });
 check('time slot selection updates summary', !/Not chosen/.test(await page.textContent('[data-sum="time"]')));
 await page.locator('input[name="party"][value="2"]').check({ force: true });
 await page.locator('input[name="interests"][value="High jewelry"]').check({ force: true });
-await page.selectOption('[data-piece-select]', 'riviere-1952');
+await page.selectOption('[data-piece-select]', 'cartier-must-tank');
 check('second piece can be added', (await page.locator('[data-chosen] li').count()) === 2);
 await page.fill('#ap-name', 'Avery Demo');
 await page.fill('#ap-email', 'not-an-email');
@@ -92,9 +92,9 @@ await page.locator('input[name="contactPref"][value="WhatsApp"]').check({ force:
 await page.click('button[type="submit"]');
 await page.waitForSelector('[data-confirm]:not([hidden])');
 const conf = await page.textContent('[data-confirm]');
-check('confirmation shows reference and details', /Reference QB-/.test(conf) && /Avery/.test(conf) && /Rivière/.test(conf), conf.replace(/\s+/g, ' ').slice(0, 120));
+check('confirmation shows reference and details', /Reference QB-/.test(conf) && /Avery/.test(conf) && /Tank/.test(conf), conf.replace(/\s+/g, ' ').slice(0, 120));
 const saved = await page.evaluate(() => JSON.parse(localStorage.getItem('qb.appointment')));
-check('request persisted to localStorage', saved?.length === 1 && saved[0].pieces === 'oval-solitaire-302,riviere-1952' && saved[0].party === '2', JSON.stringify(saved?.[0]).slice(0, 140));
+check('request persisted to localStorage', saved?.length === 1 && saved[0].pieces === 'rolex-submariner-16800,cartier-must-tank' && saved[0].party === '2', JSON.stringify(saved?.[0]).slice(0, 140));
 const icsHref = await page.getAttribute('[data-confirm] a[download]', 'href');
 const icsText = await page.evaluate(async (u) => (await fetch(u)).text(), icsHref);
 check('add-to-calendar produces a valid .ics', icsText.includes('BEGIN:VEVENT') && icsText.includes('DTSTART;TZID=America/New_York'));
