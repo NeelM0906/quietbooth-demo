@@ -1,0 +1,122 @@
+{
+  "siteUrl": "https://quietbooth.example",
+  "brand": {
+    "name": "QuietBooth",
+    "monogram": "QB",
+    "tagline": "Watches and high jewelry, shown privately.",
+    "description": "An appointment-only salon for independent watches and high jewelry above 47th Street, New York. Every piece is authenticated in house and shown in a private room, one guest at a time.",
+    "founded": 1987,
+    "demoNotice": "Demonstration site. Pieces, people, and addresses are fictional."
+  },
+  "colors": {
+    "ink": "#0D0F0B",
+    "olive": "#1B1F17",
+    "oliveSoft": "#262B21",
+    "line": "#3A4033",
+    "stone": "#E6DFD2",
+    "stoneMuted": "#ABA391",
+    "stoneDeep": "#CFC6B5",
+    "brass": "#BE9A5F",
+    "brassBright": "#D8B77C",
+    "brassDeep": "#7A5B2C"
+  },
+  "contact": {
+    "phone": "+1 212 555 0147",
+    "whatsapp": "12125550147",
+    "email": "concierge@quietbooth.example",
+    "instagram": "quietbooth.nyc"
+  },
+  "address": {
+    "street": "000 West 47th Street",
+    "suite": "Suite 1400, by appointment",
+    "city": "New York",
+    "region": "NY",
+    "postal": "10036",
+    "country": "US",
+    "geo": {
+      "lat": 40.7571,
+      "lng": -73.9806
+    },
+    "crossStreets": "Between Fifth and Sixth Avenues"
+  },
+  "hours": [
+    {
+      "days": [
+        "Mo",
+        "Tu",
+        "We",
+        "Th"
+      ],
+      "label": "Monday to Thursday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "days": [
+        "Fr"
+      ],
+      "label": "Friday",
+      "open": "10:00",
+      "close": "14:00"
+    },
+    {
+      "days": [
+        "Su"
+      ],
+      "label": "Sunday",
+      "open": "11:00",
+      "close": "16:00"
+    }
+  ],
+  "hoursNote": "Saturdays and evenings by arrangement.",
+  "appointment": {
+    "slotMinutes": 60,
+    "leadDays": 1,
+    "horizonDays": 45,
+    "maxParty": 4,
+    "endpoint": "",
+    "formEndpoint": ""
+  },
+  "languages": [
+    "English",
+    "French",
+    "Hebrew",
+    "Russian",
+    "Mandarin",
+    "Spanish"
+  ],
+  "hosts": [
+    {
+      "name": "Miriam Adler",
+      "role": "Founder, high jewelry",
+      "since": 1987,
+      "languages": [
+        "English",
+        "Hebrew",
+        "French"
+      ],
+      "bio": "Miriam opened the salon after twelve years setting stones for houses on Fifth Avenue. She still inspects every diamond under the loupe before it is offered, and she will tell you when a stone is not the one."
+    },
+    {
+      "name": "Daniel Okafor",
+      "role": "Watches and provenance",
+      "since": 2011,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bio": "Daniel trained as a watchmaker before moving to the other side of the table. He opens every case, checks every serial against its papers, and writes the condition notes you read on this site."
+    },
+    {
+      "name": "Lena Voronova",
+      "role": "Private clients",
+      "since": 2016,
+      "languages": [
+        "English",
+        "Russian",
+        "Mandarin"
+      ],
+      "bio": "Lena looks after collectors who buy across time zones. She arranges viewings, discreet delivery, and the paperwork that follows a serious piece home."
+    }
+  ]
+}

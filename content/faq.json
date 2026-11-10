@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "title": "Appointments",
+      "items": [
+        { "q": "Do I need an appointment?", "a": "Yes. The salon is not open to walk-in visitors. Appointments keep the room quiet and let us prepare the pieces you want to see, so nothing you came for is out on another table." },
+        { "q": "How long is a viewing?", "a": "Usually one hour. If you would like more time, or want to compare several stones, say so when you request and we will hold the room longer." },
+        { "q": "Can I bring someone?", "a": "Of course. Up to four guests in total. Please include their names so the building can expect them." },
+        { "q": "Can you come to me?", "a": "For serious enquiries we can arrange a viewing at your home, office, or hotel within Manhattan, accompanied by one of our hosts and building security." }
+      ]
+    },
+    {
+      "title": "Pieces and pricing",
+      "items": [
+        { "q": "Why are prices not listed?", "a": "Many of our pieces are one of one, and some are offered on behalf of private clients who prefer discretion. We will always give you a clear price in writing before you visit, if you ask." },
+        { "q": "Are the pieces authentic?", "a": "Every watch is opened and checked against its papers, and every significant stone carries an independent laboratory report. You can read our full process on the Authenticity page." },
+        { "q": "Can a piece be held for me?", "a": "We can hold a piece for forty-eight hours while you arrange a viewing. Longer holds are possible with a small refundable deposit." },
+        { "q": "Do you resize and service?", "a": "Rings are resized in our workshop. Watches are serviced by independent watchmakers we have worked with for years." }
+      ]
+    },
+    {
+      "title": "Payment and delivery",
+      "items": [
+        { "q": "How can I pay?", "a": "Bank transfer, certified cheque, or card for smaller pieces. We do not accept cash above the legal reporting limit, and we follow all applicable identity checks." },
+        { "q": "Do you deliver?", "a": "Yes. Insured delivery by armoured courier, or by a host in person within the city. International shipping is fully insured and arranged case by case." },
+        { "q": "What if I change my mind?", "a": "Pieces bought in the salon may be returned unworn within fourteen days, in the condition they left. Custom work is not returnable." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+/* Generated from site.config.json by build/build.mjs. Edit the config, not this file. */
+:root {
+  --ink: #0D0F0B;
+  --olive: #1B1F17;
+  --olive-soft: #262B21;
+  --line: #3A4033;
+  --stone: #E6DFD2;
+  --stone-muted: #ABA391;
+  --stone-deep: #CFC6B5;
+  --brass: #BE9A5F;
+  --brass-bright: #D8B77C;
+  --brass-deep: #7A5B2C;
+}

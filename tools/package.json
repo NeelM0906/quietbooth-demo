@@ -1,0 +1,15 @@
+{
+  "name": "quietbooth-tools",
+  "private": true,
+  "type": "module",
+  "description": "Verification and asset tools. Not needed to view or deploy the site.",
+  "scripts": {
+    "assets": "node render-assets.mjs",
+    "verify": "node verify.mjs",
+    "lighthouse": "node lighthouse.mjs"
+  },
+  "devDependencies": {
+    "lighthouse": "^12.0.0",
+    "playwright": "^1.50.0"
+  }
+}

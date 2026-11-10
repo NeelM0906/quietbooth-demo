@@ -1,0 +1,310 @@
+{
+  "chapters": [
+    { "id": "steel", "numeral": "I", "title": "Steel, Quietly", "intro": "Sport watches without the noise. Original dials, unpolished cases, and bracelets that still close the way they did on the first day." },
+    { "id": "gold", "numeral": "II", "title": "Gold Hours", "intro": "Dress watches from the decades when a watch was made to be worn under a cuff and noticed only by the person wearing it." },
+    { "id": "light", "numeral": "III", "title": "Light, Held", "intro": "Diamonds chosen one at a time under the loupe, set in platinum and white gold, and shown in daylight before they are shown anywhere else." },
+    { "id": "colour", "numeral": "IV", "title": "Colour, Considered", "intro": "Emerald, sapphire, and ruby with independent laboratory reports, alongside one watch that would not sit in any other chapter." }
+  ],
+  "pieces": [
+    {
+      "slug": "verrault-lumen-38",
+      "chapter": "steel",
+      "kind": "watch",
+      "featured": true,
+      "status": "available",
+      "maker": "Maison Verrault",
+      "title": "Lumen 38",
+      "reference": "Ref. 3812",
+      "year": "2019",
+      "headline": "A slate sunburst dial that changes with the weather.",
+      "story": [
+        "The Lumen was drawn as a watch for every day of a long life. At 38 millimetres it sits close to the wrist, and the slate dial moves from charcoal to silver as the light turns.",
+        "This example came to us from its first owner, a physician in Boston, with the full set. The case has never been polished. You can still see the factory brushing on the lugs."
+      ],
+      "provenance": ["Single owner since new", "Original purchase receipt, 2019", "Box, papers, and two spare links"],
+      "condition": "Excellent. Light desk wear on the clasp. Case unpolished.",
+      "specs": [["Case", "Stainless steel, 38 mm"], ["Movement", "Automatic, calibre V-30"], ["Dial", "Slate sunburst, applied batons"], ["Bracelet", "Steel, folding clasp"], ["Water resistance", "100 m"], ["Set", "Box and papers"]],
+      "art": { "type": "watch", "case": "round", "metal": "steel", "dial": "#4A5157", "dialStyle": "sunburst", "bezel": "smooth", "band": "bracelet", "indices": "baton", "hands": "baton", "complication": "date", "tone": "olive" }
+    },
+    {
+      "slug": "haldane-traverse-chronograph",
+      "chapter": "steel",
+      "kind": "watch",
+      "featured": false,
+      "status": "available",
+      "maker": "Haldane & Fils",
+      "title": "Traverse Chronograph",
+      "reference": "Ref. H-402",
+      "year": "1971",
+      "headline": "A manual chronograph with its original panda dial.",
+      "story": [
+        "Haldane made the Traverse for rally timekeepers, and only a few hundred left the workshop. The cream dial with black registers is original and has aged evenly to a soft ivory.",
+        "We serviced the movement with an independent watchmaker on 47th Street and kept every replaced part in a sealed envelope that goes home with the watch."
+      ],
+      "provenance": ["Acquired from a private collection in Geneva", "Service record, 2025", "Replaced parts retained"],
+      "condition": "Very good. Even patina on dial and hands. Case shows honest wear.",
+      "specs": [["Case", "Stainless steel, 37 mm"], ["Movement", "Manual wind chronograph"], ["Dial", "Cream with black registers"], ["Strap", "Chestnut calf, steel buckle"], ["Service", "2025, independent"], ["Set", "Watch and service papers"]],
+      "art": { "type": "watch", "case": "round", "metal": "steel", "dial": "#E9E1CF", "dialStyle": "plain", "bezel": "tachy", "band": "leather", "strap": "#5B3A24", "indices": "baton", "hands": "baton", "complication": "chrono", "tone": "stone" }
+    },
+    {
+      "slug": "orsolya-octa-41",
+      "chapter": "steel",
+      "kind": "watch",
+      "featured": true,
+      "status": "on-hold",
+      "maker": "Orsolya Genève",
+      "title": "Octa 41",
+      "reference": "Ref. 1541",
+      "year": "2016",
+      "headline": "An octagonal case and a hand-guilloché dial in storm blue.",
+      "story": [
+        "The Octa is the most recognisable silhouette in our salon, and the least shown. Eight facets catch light differently as the wrist turns, and the bracelet is integrated so the watch reads as one object.",
+        "Daniel has measured the bracelet stretch at under half a millimetre across the links. It has been worn, but carefully."
+      ],
+      "provenance": ["Second owner, purchased from us in 2018", "Box, papers, and service card", "Returned to us for resale"],
+      "condition": "Excellent. Bracelet tight. Light hairlines on the bezel.",
+      "specs": [["Case", "Stainless steel, 41 mm"], ["Movement", "Automatic, ultra-thin"], ["Dial", "Storm blue, guilloché"], ["Bracelet", "Integrated steel"], ["Water resistance", "50 m"], ["Set", "Full set"]],
+      "art": { "type": "watch", "case": "octagon", "metal": "steel", "dial": "#2A3C52", "dialStyle": "guilloche", "bezel": "smooth", "band": "bracelet", "indices": "baton", "hands": "baton", "complication": "date", "tone": "ink" }
+    },
+    {
+      "slug": "verrault-calendrier-lune",
+      "chapter": "gold",
+      "kind": "watch",
+      "featured": true,
+      "status": "available",
+      "maker": "Maison Verrault",
+      "title": "Calendrier Lune",
+      "reference": "Ref. 5120R",
+      "year": "2008",
+      "headline": "A moonphase in rose gold, accurate for one hundred and twenty years.",
+      "story": [
+        "The moon disc is cut from lapis and set with gold stars by hand. It needs one correction every one hundred and twenty two years, which is to say it needs none in yours.",
+        "This piece was kept in a safe for most of its life. The rose gold has a soft, even tone and the strap is new, with the original folding buckle."
+      ],
+      "provenance": ["Original owner, New York", "Extract from the archives", "Original buckle, new strap"],
+      "condition": "Excellent. Minimal wear. Never polished.",
+      "specs": [["Case", "18k rose gold, 39 mm"], ["Movement", "Automatic, moonphase"], ["Dial", "Ivory grained, Breguet numerals"], ["Strap", "Chocolate alligator"], ["Buckle", "18k folding buckle"], ["Set", "Box, papers, archive extract"]],
+      "art": { "type": "watch", "case": "round", "metal": "rose", "dial": "#EDE4D2", "dialStyle": "grain", "bezel": "smooth", "band": "leather", "strap": "#3A2318", "indices": "breguet", "hands": "breguet", "complication": "moon", "tone": "olive" }
+    },
+    {
+      "slug": "aubrac-tonneau-1938",
+      "chapter": "gold",
+      "kind": "watch",
+      "featured": false,
+      "status": "available",
+      "maker": "Aubrac & Cie",
+      "title": "Tonneau",
+      "reference": "No. 21907",
+      "year": "1938",
+      "headline": "A barrel case from the year before everything changed.",
+      "story": [
+        "Aubrac cased only a handful of these in yellow gold before the workshop turned to instruments for the war. The Roman numerals are printed, not painted, and still sharp.",
+        "The crystal is a period-correct replacement. Everything else is as it left Aubrac, including the engraved caseback dedication, which we have photographed for the dossier and will not publish."
+      ],
+      "provenance": ["Estate of a New Jersey collector", "Engraved caseback, 1938", "Accompanied by an expert letter"],
+      "condition": "Good for age. Replacement crystal. Gold has warm patina.",
+      "specs": [["Case", "18k yellow gold, 26 x 38 mm"], ["Movement", "Manual wind"], ["Dial", "Silvered, printed Roman numerals"], ["Strap", "Black calf"], ["Era", "Pre-war"], ["Set", "Watch and expert letter"]],
+      "art": { "type": "watch", "case": "tonneau", "metal": "yellow", "dial": "#E4DFD3", "dialStyle": "plain", "bezel": "none", "band": "leather", "strap": "#1C1A17", "indices": "roman", "hands": "breguet", "complication": "seconds", "tone": "stone" }
+    },
+    {
+      "slug": "haldane-rectangle-deco",
+      "chapter": "gold",
+      "kind": "watch",
+      "featured": false,
+      "status": "reserved",
+      "maker": "Haldane & Fils",
+      "title": "Rectangle Déco",
+      "reference": "Ref. 790",
+      "year": "1946",
+      "headline": "Stepped lugs and a champagne dial, made for a shirt cuff.",
+      "story": [
+        "The rectangle was the shape of the 1940s, and Haldane drew one of the best. The stepped lugs reflect light in three planes, which is why we photograph it on stone.",
+        "Reserved for a client while they decide. We will tell you honestly if it becomes available again."
+      ],
+      "provenance": ["Private collection, London", "Serviced 2024"],
+      "condition": "Very good. Original dial with light spotting at six.",
+      "specs": [["Case", "18k yellow gold, 23 x 35 mm"], ["Movement", "Manual wind"], ["Dial", "Champagne, applied gold markers"], ["Strap", "Tan suede"], ["Service", "2024"], ["Set", "Watch only"]],
+      "art": { "type": "watch", "case": "rect", "metal": "yellow", "dial": "#D9C59A", "dialStyle": "sunburst", "bezel": "none", "band": "leather", "strap": "#8A6A45", "indices": "baton", "hands": "dauphine", "complication": "none", "tone": "olive" }
+    },
+    {
+      "slug": "orsolya-ref-96-platine",
+      "chapter": "gold",
+      "kind": "watch",
+      "featured": false,
+      "status": "available",
+      "maker": "Orsolya Genève",
+      "title": "Ref. 96 Platine",
+      "reference": "Ref. 96P",
+      "year": "1999",
+      "headline": "A platinum time-only watch with a salmon dial.",
+      "story": [
+        "Platinum is heavier than it looks, and the Ref. 96 makes no effort to say so. The salmon dial was a special order and the only indication of the metal is a small diamond set in the caseback at six.",
+        "One of very few we have seen. It came to us through a family who wanted it to go to someone who would wear it."
+      ],
+      "provenance": ["Original owner family, Connecticut", "Certificate of origin", "Special order dial"],
+      "condition": "Excellent. Faint scratches on the caseback.",
+      "specs": [["Case", "Platinum 950, 36 mm"], ["Movement", "Manual wind"], ["Dial", "Salmon, applied white gold markers"], ["Strap", "Black alligator"], ["Buckle", "Platinum"], ["Set", "Box and certificate"]],
+      "art": { "type": "watch", "case": "round", "metal": "platinum", "dial": "#E3B49B", "dialStyle": "plain", "bezel": "smooth", "band": "leather", "strap": "#151413", "indices": "dots", "hands": "dauphine", "complication": "seconds", "tone": "ink" }
+    },
+    {
+      "slug": "oval-solitaire-302",
+      "chapter": "light",
+      "kind": "jewelry",
+      "featured": true,
+      "status": "available",
+      "maker": "QuietBooth Atelier",
+      "title": "Oval Solitaire, 3.02 ct",
+      "reference": "Atelier No. 0417",
+      "year": "2026",
+      "headline": "An oval diamond on a knife-edge platinum band.",
+      "story": [
+        "Miriam looked at forty oval diamonds to choose this one. The proportions keep the bow tie to a whisper, and the stone faces up larger than its weight would suggest.",
+        "The band is hand-forged and set with four claws, low enough to slip under a glove. We can resize it in our workshop within a week."
+      ],
+      "provenance": ["Independent laboratory report, natural diamond", "Set in our workshop", "Sourced from a known cutter in Antwerp"],
+      "condition": "New, made in our workshop.",
+      "specs": [["Stone", "Oval brilliant, 3.02 ct"], ["Colour and clarity", "E, VVS2"], ["Metal", "Platinum 950"], ["Band", "Knife edge, 1.8 mm"], ["Size", "52, resizable"], ["Report", "Independent laboratory"]],
+      "art": { "type": "ring", "metal": "platinum", "stone": "diamond", "cut": "oval", "tone": "ink" }
+    },
+    {
+      "slug": "riviere-1952",
+      "chapter": "light",
+      "kind": "jewelry",
+      "featured": true,
+      "status": "available",
+      "maker": "Unsigned, Paris",
+      "title": "Rivière Necklace",
+      "reference": "Circa 1952",
+      "year": "1952",
+      "headline": "Forty-one graduated diamonds in a single line of light.",
+      "story": [
+        "A rivière is the simplest necklace there is and the hardest to make well. Every stone must match its neighbour in colour, and the graduation must look inevitable.",
+        "This one was made in Paris shortly after the war. The old European cuts give a softer, warmer fire than modern stones, closer to candlelight than to a camera flash."
+      ],
+      "provenance": ["Paris assay marks", "Private European collection", "Restrung and inspected 2026"],
+      "condition": "Very good. All stones original. Clasp reinforced.",
+      "specs": [["Stones", "41 old European cut diamonds"], ["Total weight", "Approximately 14 ct"], ["Metal", "Platinum"], ["Length", "41 cm"], ["Clasp", "Box clasp with safety"], ["Era", "Circa 1952"]],
+      "art": { "type": "necklace", "metal": "platinum", "stone": "diamond", "cut": "round", "pendant": "none", "tone": "olive" }
+    },
+    {
+      "slug": "pear-drop-earrings",
+      "chapter": "light",
+      "kind": "jewelry",
+      "featured": false,
+      "status": "available",
+      "maker": "QuietBooth Atelier",
+      "title": "Pear Drop Earrings",
+      "reference": "Atelier No. 0388",
+      "year": "2025",
+      "headline": "Two matched pears that move when you do.",
+      "story": [
+        "Matching two pear diamonds is slow work. These were cut from the same rough and their outlines differ by less than a tenth of a millimetre.",
+        "They hang from a small round diamond on a hinged link, so they turn and catch light even when you are standing still."
+      ],
+      "provenance": ["Matched pair, same rough", "Independent laboratory reports for both", "Made in our workshop"],
+      "condition": "New, made in our workshop.",
+      "specs": [["Stones", "Two pear brilliants, 1.51 ct and 1.50 ct"], ["Colour and clarity", "F, VS1"], ["Accents", "Round brilliants, 0.40 ct total"], ["Metal", "18k white gold"], ["Fitting", "Post with friction back"], ["Report", "Independent laboratory"]],
+      "art": { "type": "earrings", "metal": "white", "stone": "diamond", "cut": "pear", "tone": "stone" }
+    },
+    {
+      "slug": "line-bracelet-980",
+      "chapter": "light",
+      "kind": "jewelry",
+      "featured": false,
+      "status": "available",
+      "maker": "QuietBooth Atelier",
+      "title": "Line Bracelet, 9.80 ct",
+      "reference": "Atelier No. 0352",
+      "year": "2024",
+      "headline": "A line of fifty-two diamonds, every one the same size.",
+      "story": [
+        "The point of a line bracelet is that you stop seeing individual stones. These fifty-two were calibrated to within two hundredths of a millimetre.",
+        "Each link is hinged and soldered by hand. The clasp has two independent safeties because a bracelet like this should not need a second thought."
+      ],
+      "provenance": ["Stones calibrated in our workshop", "Independent laboratory report for the set"],
+      "condition": "New, made in our workshop.",
+      "specs": [["Stones", "52 round brilliants"], ["Total weight", "9.80 ct"], ["Colour and clarity", "G, VS"], ["Metal", "Platinum 950"], ["Length", "17.5 cm"], ["Clasp", "Box clasp, double safety"]],
+      "art": { "type": "bracelet", "metal": "platinum", "stone": "diamond", "cut": "round", "tone": "olive" }
+    },
+    {
+      "slug": "colombian-emerald-ring",
+      "chapter": "colour",
+      "kind": "jewelry",
+      "featured": true,
+      "status": "available",
+      "maker": "QuietBooth Atelier",
+      "title": "Colombian Emerald, 4.10 ct",
+      "reference": "Atelier No. 0401",
+      "year": "2026",
+      "headline": "A deep green emerald cut with minor oil, framed in yellow gold.",
+      "story": [
+        "Colombian emeralds have a warmth that no other source quite matches. This one is a saturated, slightly bluish green with the soft garden you expect and want in a natural stone.",
+        "We set it in yellow gold with a fine diamond shoulder on each side, so the green reads first and the light second."
+      ],
+      "provenance": ["Origin report: Colombia", "Clarity enhancement: minor", "Set in our workshop"],
+      "condition": "New, made in our workshop.",
+      "specs": [["Stone", "Emerald cut emerald, 4.10 ct"], ["Origin", "Colombia, per laboratory"], ["Enhancement", "Minor"], ["Shoulders", "Tapered baguettes, 0.36 ct"], ["Metal", "18k yellow gold"], ["Size", "54, resizable"]],
+      "art": { "type": "ring", "metal": "yellow", "stone": "emerald", "cut": "emerald", "tone": "stone" }
+    },
+    {
+      "slug": "ceylon-sapphire-pendant",
+      "chapter": "colour",
+      "kind": "jewelry",
+      "featured": false,
+      "status": "available",
+      "maker": "QuietBooth Atelier",
+      "title": "Ceylon Sapphire Pendant",
+      "reference": "Atelier No. 0366",
+      "year": "2025",
+      "headline": "A cornflower sapphire, unheated, on a fine platinum chain.",
+      "story": [
+        "Unheated sapphires of this size and colour are found perhaps a few times a year. The cushion cut keeps the colour even from edge to edge.",
+        "We kept the setting almost invisible. A thin halo of small diamonds lifts the blue without competing with it."
+      ],
+      "provenance": ["Origin report: Sri Lanka", "No indication of heating", "Set in our workshop"],
+      "condition": "New, made in our workshop.",
+      "specs": [["Stone", "Cushion sapphire, 7.21 ct"], ["Origin", "Sri Lanka, per laboratory"], ["Treatment", "None detected"], ["Halo", "Round brilliants, 0.62 ct"], ["Metal", "Platinum"], ["Chain", "45 cm, adjustable"]],
+      "art": { "type": "necklace", "metal": "platinum", "stone": "sapphire", "cut": "cushion", "pendant": "halo", "tone": "ink" }
+    },
+    {
+      "slug": "burmese-ruby-earrings",
+      "chapter": "colour",
+      "kind": "jewelry",
+      "featured": false,
+      "status": "available",
+      "maker": "QuietBooth Atelier",
+      "title": "Burmese Ruby Drops",
+      "reference": "Atelier No. 0329",
+      "year": "2024",
+      "headline": "Pigeon blood rubies, each one an oval of warm light.",
+      "story": [
+        "Rubies glow under daylight because they fluoresce, and the best Burmese stones do it most. These two ovals were paired over three years of buying.",
+        "They hang beneath a small diamond cluster, set in platinum so nothing warms the colour except the stones themselves."
+      ],
+      "provenance": ["Origin reports: Myanmar, both stones", "Acquired before 2008 import restrictions, documented", "Made in our workshop"],
+      "condition": "New, made in our workshop.",
+      "specs": [["Stones", "Two oval rubies, 2.04 ct total"], ["Origin", "Myanmar, per laboratory"], ["Treatment", "No indication of heating"], ["Accents", "Round brilliants, 0.30 ct"], ["Metal", "Platinum"], ["Fitting", "Post with friction back"]],
+      "art": { "type": "earrings", "metal": "platinum", "stone": "ruby", "cut": "oval", "tone": "olive" }
+    },
+    {
+      "slug": "verrault-lumen-joaillerie",
+      "chapter": "colour",
+      "kind": "watch",
+      "featured": false,
+      "status": "available",
+      "maker": "Maison Verrault",
+      "title": "Lumen Joaillerie",
+      "reference": "Ref. 3816G",
+      "year": "2021",
+      "headline": "A white gold Lumen with a bezel of sixty diamonds.",
+      "story": [
+        "The jewellery version of the Lumen is rarely seen, because most were made to order. The bezel stones are set so closely that it reads as a ring of light rather than sixty diamonds.",
+        "The ink dial is lacquered in twelve layers and polished between each one."
+      ],
+      "provenance": ["Single owner", "Full set with diamond certificate"],
+      "condition": "Excellent. Unworn in the last four years.",
+      "specs": [["Case", "18k white gold, 36 mm"], ["Bezel", "60 round brilliants, 1.12 ct"], ["Movement", "Automatic"], ["Dial", "Ink lacquer"], ["Strap", "Midnight satin"], ["Set", "Full set"]],
+      "art": { "type": "watch", "case": "round", "metal": "white", "dial": "#121519", "dialStyle": "lacquer", "bezel": "diamond", "band": "leather", "strap": "#1D2433", "indices": "dots", "hands": "dauphine", "complication": "none", "tone": "stone" }
+    }
+  ]
+}

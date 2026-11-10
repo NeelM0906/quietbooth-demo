@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add('js')</script>
+<title>Private appointment · QuietBooth</title>
+<meta name="description" content="Request a private appointment at QuietBooth. Choose a date and time, tell us what you would like to see, and we will prepare the room.">
+<link rel="canonical" href="https://quietbooth.example/appointment/">
+<meta name="theme-color" content="#0D0F0B">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="QuietBooth">
+<meta property="og:title" content="Private appointment · QuietBooth">
+<meta property="og:description" content="Request a private appointment at QuietBooth. Choose a date and time, tell us what you would like to see, and we will prepare the room.">
+<meta property="og:url" content="https://quietbooth.example/appointment/">
+<meta property="og:image" content="https://quietbooth.example/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="preload" href="../assets/fonts/cormorant.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../assets/fonts/hanken.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/css/tokens.css">
+<link rel="stylesheet" href="../assets/css/site.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://quietbooth.example/"},{"@type":"ListItem","position":2,"name":"Private appointment","item":"https://quietbooth.example/appointment/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"JewelryStore","name":"QuietBooth","description":"An appointment-only salon for independent watches and high jewelry above 47th Street, New York. Every piece is authenticated in house and shown in a private room, one guest at a time.","url":"https://quietbooth.example/","telephone":"+1 212 555 0147","email":"concierge@quietbooth.example","image":"https://quietbooth.example/assets/og.png","foundingDate":"1987","address":{"@type":"PostalAddress","streetAddress":"000 West 47th Street, Suite 1400, by appointment","addressLocality":"New York","addressRegion":"NY","postalCode":"10036","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":40.7571,"longitude":-73.9806},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday"],"opens":"10:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Friday"],"opens":"10:00","closes":"14:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Sunday"],"opens":"11:00","closes":"16:00"}],"knowsLanguage":["English","French","Hebrew","Russian","Mandarin","Spanish"],"sameAs":["https://www.instagram.com/quietbooth.nyc/"]}</script>
+<script src="../assets/js/config.js" defer></script>
+<script src="../assets/js/site.js" defer></script>
+</head>
+<body class="appointment-page">
+<header class="site-header" data-header>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="bar">
+    <a class="wordmark" href="../" aria-label="QuietBooth, home">QuietBooth</a>
+    <nav class="primary" aria-label="Primary"><a href="../lookbook/">Lookbook</a><a href="../house/">The House</a><a href="../authenticity/">Authenticity</a><a href="../journal/">Journal</a><a href="../visit/">Visit</a></nav>
+    <div class="bar-end">
+      <a class="btn btn-line btn-sm cta-head" href="../appointment/">Private appointment</a>
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu" data-menu-open>Menu</button>
+    </div>
+  </div>
+  <div class="menu" id="menu" data-menu hidden>
+    <div class="menu-inner">
+      <button class="menu-close" type="button" data-menu-close>Close</button>
+      <nav aria-label="Full menu"><ol class="menu-list">
+        <li><a href="../"><span class="menu-n">01</span>Home</a></li><li><a href="../lookbook/"><span class="menu-n">02</span>Lookbook</a></li><li><a href="../house/"><span class="menu-n">03</span>The House</a></li><li><a href="../authenticity/"><span class="menu-n">04</span>Authenticity</a></li><li><a href="../journal/"><span class="menu-n">05</span>Journal</a></li><li><a href="../visit/"><span class="menu-n">06</span>Visit</a></li><li><a href="../appointment/" aria-current="page"><span class="menu-n">07</span>Private appointment</a></li><li><a href="../consign/"><span class="menu-n">08</span>Sell or consign</a></li><li><a href="../faq/"><span class="menu-n">09</span>Questions</a></li><li><a href="../legal/"><span class="menu-n">10</span>Legal and privacy</a></li>
+      </ol></nav>
+      <div class="menu-foot">
+        <p>000 West 47th Street<br>Suite 1400, by appointment</p>
+        <p><a href="tel:+12125550147">+1 212 555 0147</a><br><a href="https://wa.me/12125550147?text=Hello%20QuietBooth%2C%20I%20would%20like%20to%20arrange%20a%20private%20viewing.">WhatsApp</a> · <a href="mailto:concierge@quietbooth.example">Email</a></p>
+      </div>
+    </div>
+  </div>
+</header>
+<main id="main" tabindex="-1">
+<header class="page-head wrap">
+  <p class="eyebrow">Private appointment</p>
+  <h1 class="display-xl">Choose a time. <em>We will prepare the room.</em></h1>
+  <p class="lede">One guest party at a time, about an hour. We confirm every request personally within one working day.</p>
+</header>
+<div class="appt wrap" data-appointment>
+  <div class="appt-main">
+    <div class="pending" data-pending hidden></div>
+    <form class="appt-form" data-form="appointment" novalidate>
+      <div class="form-errors" data-errors tabindex="-1" hidden></div>
+      <fieldset class="step">
+        <legend><span class="step-n">I</span>Date</legend>
+        <div class="cal" data-calendar>
+          <div class="cal-head"><button type="button" class="cal-nav" data-cal-prev aria-label="Previous month">‹</button><h2 class="cal-title" data-cal-title aria-live="polite"></h2><button type="button" class="cal-nav" data-cal-next aria-label="Next month">›</button></div>
+          <table class="cal-grid"><caption class="visually-hidden">Available dates. Use Tab to move between open days.</caption><thead><tr><th scope="col" abbr="Monday"><span aria-hidden="true">M</span><span class="visually-hidden">Monday</span></th><th scope="col" abbr="Tuesday"><span aria-hidden="true">T</span><span class="visually-hidden">Tuesday</span></th><th scope="col" abbr="Wednesday"><span aria-hidden="true">W</span><span class="visually-hidden">Wednesday</span></th><th scope="col" abbr="Thursday"><span aria-hidden="true">T</span><span class="visually-hidden">Thursday</span></th><th scope="col" abbr="Friday"><span aria-hidden="true">F</span><span class="visually-hidden">Friday</span></th><th scope="col" abbr="Saturday"><span aria-hidden="true">S</span><span class="visually-hidden">Saturday</span></th><th scope="col" abbr="Sunday"><span aria-hidden="true">S</span><span class="visually-hidden">Sunday</span></th></tr></thead><tbody data-cal-body></tbody></table>
+          <p class="small muted">Closed days are dimmed. Saturdays and evenings by arrangement.</p>
+        </div>
+        <input type="hidden" name="date" data-required="Choose a date" data-focus="[data-calendar] button.day:not([disabled])">
+      </fieldset>
+      <fieldset class="step">
+        <legend><span class="step-n">II</span>Time</legend>
+        <div class="slots" data-slots><p class="muted">Choose a date to see available times.</p></div>
+        <input type="hidden" name="time" data-required="Choose a time" data-focus="[data-slots] input">
+      </fieldset>
+      <fieldset class="step">
+        <legend><span class="step-n">III</span>Your visit</legend>
+        <div class="field"><span class="label" id="party-l">Guests, including you</span><div class="seg" role="radiogroup" aria-labelledby="party-l"><label><input type="radio" name="party" value="1" checked><span>1</span></label><label><input type="radio" name="party" value="2"><span>2</span></label><label><input type="radio" name="party" value="3"><span>3</span></label><label><input type="radio" name="party" value="4"><span>4</span></label></div></div>
+        <div class="field"><span class="label" id="int-l">Interested in</span><div class="chips" role="group" aria-labelledby="int-l"><label><input type="checkbox" name="interests" value="Watches"><span>Watches</span></label><label><input type="checkbox" name="interests" value="High jewelry"><span>High jewelry</span></label><label><input type="checkbox" name="interests" value="Engagement"><span>Engagement</span></label><label><input type="checkbox" name="interests" value="Selling or consigning"><span>Selling or consigning</span></label><label><input type="checkbox" name="interests" value="Simply looking"><span>Simply looking</span></label></div></div>
+        <div class="field"><label for="ap-piece">Pieces you would like to see <span class="opt">optional</span></label>
+          <ul class="chosen" data-chosen aria-live="polite"></ul>
+          <select id="ap-piece" data-piece-select><option value="">Add a piece from the lookbook</option><optgroup label="Steel, Quietly"><option value="verrault-lumen-38">Maison Verrault Lumen 38</option><option value="haldane-traverse-chronograph">Haldane &amp; Fils Traverse Chronograph</option><option value="orsolya-octa-41">Orsolya Genève Octa 41</option></optgroup><optgroup label="Gold Hours"><option value="verrault-calendrier-lune">Maison Verrault Calendrier Lune</option><option value="aubrac-tonneau-1938">Aubrac &amp; Cie Tonneau</option><option value="haldane-rectangle-deco">Haldane &amp; Fils Rectangle Déco</option><option value="orsolya-ref-96-platine">Orsolya Genève Ref. 96 Platine</option></optgroup><optgroup label="Light, Held"><option value="oval-solitaire-302">QuietBooth Atelier Oval Solitaire, 3.02 ct</option><option value="riviere-1952">Unsigned, Paris Rivière Necklace</option><option value="pear-drop-earrings">QuietBooth Atelier Pear Drop Earrings</option><option value="line-bracelet-980">QuietBooth Atelier Line Bracelet, 9.80 ct</option></optgroup><optgroup label="Colour, Considered"><option value="colombian-emerald-ring">QuietBooth Atelier Colombian Emerald, 4.10 ct</option><option value="ceylon-sapphire-pendant">QuietBooth Atelier Ceylon Sapphire Pendant</option><option value="burmese-ruby-earrings">QuietBooth Atelier Burmese Ruby Drops</option><option value="verrault-lumen-joaillerie">Maison Verrault Lumen Joaillerie</option></optgroup></select>
+          <input type="hidden" name="pieces">
+        </div>
+        <div class="two">
+          <div class="field"><label for="ap-lang">Preferred language</label><select id="ap-lang" name="language"><option>English</option><option>French</option><option>Hebrew</option><option>Russian</option><option>Mandarin</option><option>Spanish</option></select></div>
+          <div class="field"><label for="ap-host">Host</label><select id="ap-host" name="host"><option value="">No preference</option><option>Miriam Adler</option><option>Daniel Okafor</option><option>Lena Voronova</option></select></div>
+        </div>
+      </fieldset>
+      <fieldset class="step">
+        <legend><span class="step-n">IV</span>Your details</legend>
+        <div class="two">
+          <div class="field"><label for="ap-name">Name</label><input id="ap-name" name="name" autocomplete="name" required data-required="Enter your name"></div>
+          <div class="field"><label for="ap-email">Email</label><input id="ap-email" name="email" type="email" autocomplete="email" required data-required="Enter a valid email address"></div>
+        </div>
+        <div class="field"><label for="ap-phone">Phone <span class="opt">needed for phone or WhatsApp</span></label><input id="ap-phone" name="phone" type="tel" autocomplete="tel"></div>
+        <div class="field"><span class="label" id="cp-l">How should we confirm?</span><div class="seg" role="radiogroup" aria-labelledby="cp-l"><label><input type="radio" name="contactPref" value="Email" checked><span>Email</span></label><label><input type="radio" name="contactPref" value="Phone"><span>Phone</span></label><label><input type="radio" name="contactPref" value="WhatsApp"><span>WhatsApp</span></label></div></div>
+        <div class="field checks">
+          <label class="check"><input type="checkbox" name="discreetArrival" value="yes"><span>I would prefer a discreet arrival by the side entrance</span></label>
+          <label class="check"><input type="checkbox" name="noVoicemail" value="yes"><span>Please do not leave voicemail or send calendar invitations</span></label>
+        </div>
+        <div class="field"><label for="ap-note">Anything we should know <span class="opt">optional</span></label><textarea id="ap-note" name="note" rows="3" aria-describedby="ap-note-h"></textarea><p class="hint" id="ap-note-h">For example, if the name on your photo ID differs from the name above, or if you would like us to come to you.</p></div>
+        <label class="check"><input type="checkbox" name="consent" value="yes" required data-required="Agree to the privacy notice"><span>I agree that QuietBooth may use these details to arrange my visit, as described in the <a href="../legal/#privacy">privacy notice</a>.</span></label>
+      </fieldset>
+      <div class="submit-row"><button class="btn btn-solid btn-lg" type="submit">Request appointment</button><p class="small muted">No payment and no obligation. We confirm personally.</p></div>
+    </form>
+    <section class="confirm" data-confirm hidden tabindex="-1" aria-label="Request received"></section>
+  </div>
+  <aside class="appt-side" aria-label="Your request">
+    <div class="sticky">
+      <div class="summary">
+        <p class="eyebrow">Your request</p>
+        <dl>
+          <div><dt>Date</dt><dd data-sum="date">Not chosen</dd></div>
+          <div><dt>Time</dt><dd data-sum="time">Not chosen</dd></div>
+          <div><dt>Guests</dt><dd data-sum="party">1</dd></div>
+          <div><dt>Pieces</dt><dd data-sum="pieces">Open to suggestion</dd></div>
+        </dl>
+      </div>
+      <div class="side-note">
+        <p class="eyebrow">At the salon</p>
+        <p>000 West 47th Street<br>Suite 1400, by appointment<br>Between Fifth and Sixth Avenues</p>
+        <p class="small muted">Please bring photo identification for the building's front desk.</p>
+        <a class="link-arrow" href="../visit/">Arrival and security</a>
+      </div>
+      <section class="concierge reveal" aria-label="Concierge contact">
+  <p class="eyebrow">Concierge</p>
+  <p class="display-s">Prefer to talk first?</p>
+  <ul class="concierge-links">
+    <li><a href="tel:+12125550147">Call +1 212 555 0147</a></li>
+    <li><a href="https://wa.me/12125550147?text=Hello%20QuietBooth%2C%20I%20would%20like%20to%20ask%20about%20a%20private%20viewing.">Message on WhatsApp</a></li>
+    <li><a href="mailto:concierge@quietbooth.example?subject=Enquiry%3A%20a%20private%20viewing">Write to the concierge</a></li>
+  </ul>
+</section>
+    </div>
+  </aside>
+</div>
+<script type="application/json" id="qb-pieces">{"verrault-lumen-38":{"name":"Maison Verrault Lumen 38","status":"available"},"haldane-traverse-chronograph":{"name":"Haldane & Fils Traverse Chronograph","status":"available"},"orsolya-octa-41":{"name":"Orsolya Genève Octa 41","status":"on-hold"},"verrault-calendrier-lune":{"name":"Maison Verrault Calendrier Lune","status":"available"},"aubrac-tonneau-1938":{"name":"Aubrac & Cie Tonneau","status":"available"},"haldane-rectangle-deco":{"name":"Haldane & Fils Rectangle Déco","status":"reserved"},"orsolya-ref-96-platine":{"name":"Orsolya Genève Ref. 96 Platine","status":"available"},"oval-solitaire-302":{"name":"QuietBooth Atelier Oval Solitaire, 3.02 ct","status":"available"},"riviere-1952":{"name":"Unsigned, Paris Rivière Necklace","status":"available"},"pear-drop-earrings":{"name":"QuietBooth Atelier Pear Drop Earrings","status":"available"},"line-bracelet-980":{"name":"QuietBooth Atelier Line Bracelet, 9.80 ct","status":"available"},"colombian-emerald-ring":{"name":"QuietBooth Atelier Colombian Emerald, 4.10 ct","status":"available"},"ceylon-sapphire-pendant":{"name":"QuietBooth Atelier Ceylon Sapphire Pendant","status":"available"},"burmese-ruby-earrings":{"name":"QuietBooth Atelier Burmese Ruby Drops","status":"available"},"verrault-lumen-joaillerie":{"name":"Maison Verrault Lumen Joaillerie","status":"available"}}</script>
+</main>
+<footer class="site-footer">
+  <section class="list-signup" aria-labelledby="list-h">
+    <div class="wrap narrow center">
+      <p class="eyebrow">The private client list</p>
+      <h2 id="list-h" class="display-m">Pieces that never appear online are offered here first.</h2>
+      <p class="muted">Four letters a year, each with a private lookbook. No offers, no countdowns. Leave whenever you like.</p>
+      <form class="inline-form" data-form="list" novalidate>
+        <div class="field grow"><label for="list-email">Email address</label><input id="list-email" name="email" type="email" autocomplete="email" required data-required="Enter a valid email address"></div>
+        <div class="field"><label for="list-interest">Interested in</label><select id="list-interest" name="interest"><option>Watches and jewelry</option><option>Watches</option><option>High jewelry</option></select></div>
+        <button class="btn btn-solid" type="submit">Join the list</button>
+        <p class="form-status" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </section>
+  <div class="wrap foot-grid">
+    <div>
+      <p class="wordmark foot-mark">QuietBooth</p>
+      <p class="muted">Watches and high jewelry, shown privately.</p>
+    </div>
+    <div>
+      <h2 class="foot-h">Concierge</h2>
+      <ul class="plain">
+        <li><a href="tel:+12125550147">+1 212 555 0147</a></li>
+        <li><a href="https://wa.me/12125550147?text=Hello%20QuietBooth%2C%20I%20have%20a%20question.">WhatsApp</a></li>
+        <li><a href="mailto:concierge@quietbooth.example">concierge@quietbooth.example</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="foot-h">Visit</h2>
+      <address>000 West 47th Street<br>Suite 1400, by appointment<br>New York, NY 10036</address>
+      <dl class="hours"><div><dt>Monday to Thursday</dt><dd>10:00 to 18:00</dd></div><div><dt>Friday</dt><dd>10:00 to 14:00</dd></div><div><dt>Sunday</dt><dd>11:00 to 16:00</dd></div></dl><p class="small muted">Saturdays and evenings by arrangement.</p>
+    </div>
+    <nav aria-label="Footer">
+      <h2 class="foot-h">The house</h2>
+      <ul class="plain"><li><a href="../lookbook/">Lookbook</a></li><li><a href="../house/">The House</a></li><li><a href="../authenticity/">Authenticity</a></li><li><a href="../journal/">Journal</a></li><li><a href="../visit/">Visit</a></li><li><a href="../appointment/">Private appointment</a></li><li><a href="../consign/">Sell or consign</a></li><li><a href="../faq/">Questions</a></li><li><a href="../legal/">Legal and privacy</a></li></ul>
+    </nav>
+  </div>
+  <div class="wrap foot-base">
+    <p>© 2026 QuietBooth. Demonstration site. Pieces, people, and addresses are fictional.</p>
+    <p><a href="../legal/#privacy">Privacy</a> · <a href="../legal/#terms">Terms</a> · <a href="../legal/#accessibility">Accessibility</a></p>
+  </div>
+</footer>
+</body>
+</html>
